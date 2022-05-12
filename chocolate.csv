@@ -1,0 +1,22 @@
+,Unique,Notes,Feature
+company,502,,
+company_location,66,bin,x
+review_date,15,,
+country_of_bean_origin,62,bin,x
+specific_bean_origin_or_bar_name,1400,Remove,
+cocoa_percent,46,bin,x
+rating,13,1 to 4,y
+counts_of_ingredients,6,,x
+beans,1,Remove,x
+cocoa_butter,2,,x
+vanilla,2,,x
+lecithin,2,,x
+salt,2,,x
+sugar,2,,x
+sweetener_without_sugar,2,,x
+first_taste,455,NLP?,
+second_taste,473,,
+third_taste,329,,
+fourth_taste,88,,
+,,,
+,,,11
