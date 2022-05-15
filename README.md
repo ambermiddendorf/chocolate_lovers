@@ -26,8 +26,11 @@ Avg rating by country or region.
 Tastes related to ratings & visualization of common words
 
 ### Models:
-Logistic Regression
-K nearest neighbors
+Random Forrests model, resulted in 100% accuracy; however, did not separate the data set into training and testing sets. Also, rounded the ratings and encoded the columns with countries. 
+Encoded DF
+![image](https://user-images.githubusercontent.com/96098938/168457617-f5788bbd-b3d8-43a0-a168-a56abd86c9c6.png)
+![image](https://user-images.githubusercontent.com/96098938/168457641-70682550-7c8b-471c-987e-42f384db6a73.png)
+
 
 ### Team Communication:
 Slack & Zoom
