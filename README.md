@@ -14,6 +14,7 @@ Entity Relationship diagram for chocolate_lovers database.
 ![main](resources/chocolate_lovers.png)
 
 Database : chocolate_db
+
 Tables : chocolate,region,tastes
 
 
