@@ -13,6 +13,11 @@ Entity Relationship diagram for chocolate_lovers database.
 
 ![main](resources/chocolate_lovers.png)
 
+Database : chocolate_db
+Tables : chocolate,region,tastes
+
+
+
 ### Questions:
 * How does the percent of Cocoa & the origin of the Bean impact the rating?
 * Where do the highest rank beans come from?
