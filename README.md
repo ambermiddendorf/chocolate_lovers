@@ -21,15 +21,16 @@ Entity Relationship diagram for chocolate_lovers database.
 ### Visualizations:
 * Map of the countries with highest rated chocolate or best beans.
 
-![BeanOrigin](https://user-images.githubusercontent.com/95837693/170155813-c01e5aee-7265-4589-99a6-c6e1b9ce8a97.PNG)
+![BeanOrigin](https://user-images.githubusercontent.com/95837693/170160404-0cce849e-75bc-429b-852d-e8e98e20b790.PNG)
 
 * Pie chart to show top rated chocolates by ingredient and / or country.
 
-![CompanyLocations](https://user-images.githubusercontent.com/95837693/170157334-ef7facfe-1277-4636-89af-93ae712d7bd0.PNG)
+![CompanyLocations](https://user-images.githubusercontent.com/95837693/170160418-b984d22d-5c8b-4658-bfd4-aeb3b2ccfbc8.PNG)
 
 * Avg rating by country or region.
 
-![AvgPerBeanOrigin](https://user-images.githubusercontent.com/95837693/170157129-3a2d3bf5-80bf-42cb-a37c-342455084806.PNG)
+![AvgPerBeanOrigin](https://user-images.githubusercontent.com/95837693/170160438-bffbd400-fb00-4626-af2d-8e1b010cf0eb.PNG)
+
 
 * Tastes related to ratings & visualization of common words
 
@@ -70,8 +71,7 @@ Explanation of model choice, including limitations and benefit
 
 Our dashboard will be created in Tableau to demonstrate the origins of beans of the top rated chocolates and the top tastes used to describe those chocolates. You'll be able to filter the rating of chocolates to see correlating information.
 
-![DashboardConcept](https://user-images.githubusercontent.com/95837693/170155548-3870e81c-1744-47fd-b9d8-49f5180632eb.PNG)
-
+![DashboardConcept](https://user-images.githubusercontent.com/95837693/170160491-952f944b-4e78-4d3a-870d-bc57e95c447d.PNG)
 
 ### Team Communication Strategy:
 Slack & Zoom
