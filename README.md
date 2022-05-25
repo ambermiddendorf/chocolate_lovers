@@ -68,7 +68,7 @@ Explanation of model choice, including limitations and benefit
 
 ### Dashboard:
 
-Our dashboard will be created in Tableau to demonstrate the origins of beans of the top rated chocolates and the top tastes used to describe those chocolates. You'll be able to filter the rating of chocolates you want to see the information for.
+Our dashboard will be created in Tableau to demonstrate the origins of beans of the top rated chocolates and the top tastes used to describe those chocolates. You'll be able to filter the rating of chocolates to see correlating information.
 
 ![DashboardConcept](https://user-images.githubusercontent.com/95837693/170155548-3870e81c-1744-47fd-b9d8-49f5180632eb.PNG)
 
