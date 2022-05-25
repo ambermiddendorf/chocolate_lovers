@@ -73,5 +73,8 @@ Our dashboard will be created in Tableau to demonstrate the origins of beans of 
 
 ![DashboardConcept](https://user-images.githubusercontent.com/95837693/170160491-952f944b-4e78-4d3a-870d-bc57e95c447d.PNG)
 
+### Presentation:
+Google Slides presentation - https://docs.google.com/presentation/d/1te5ZXxZTKd96h4kvXEQcbKajDS40BcD1Jgh-bilh2kU/edit#slide=id.g12a98ee664f_0_1
+
 ### Team Communication Strategy:
 Slack & Zoom
