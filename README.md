@@ -1,13 +1,13 @@
 # Chocolate Lovers
 Boot Camp Challenge
 
-### Data Source
+### Data Source:
 We'll be using the chocolate.csv data file.
 https://www.kaggle.com/datasets/soroushghaderi/chocolate-bar-2020?select=chocolate.csv
 * 10 columns with features, with 3 that will be broken into bins
 * Ratings is our Output for our classification.
 
-### Database schema
+### Database schema:
 
 Entity Relationship diagram for chocolate_lovers database. 
 
@@ -18,12 +18,22 @@ Entity Relationship diagram for chocolate_lovers database.
 * Where do the highest rank beans come from?
 * What is impact of ingredients on ratings?
 
-### Visualizations
-* We'll visualize the locations of the best rated chocolate bars.
-* Heatmap of the countries with highest rated chocolate or best beans.
+### Visualizations:
+* Map of the countries with highest rated chocolate or best beans.
+
+![BeanOrigin](https://user-images.githubusercontent.com/95837693/170155813-c01e5aee-7265-4589-99a6-c6e1b9ce8a97.PNG)
+
 * Pie chart to show top rated chocolates by ingredient and / or country.
+
+![CompanyLocations](https://user-images.githubusercontent.com/95837693/170157334-ef7facfe-1277-4636-89af-93ae712d7bd0.PNG)
+
 * Avg rating by country or region.
+
+![AvgPerBeanOrigin](https://user-images.githubusercontent.com/95837693/170157129-3a2d3bf5-80bf-42cb-a37c-342455084806.PNG)
+
 * Tastes related to ratings & visualization of common words
+
+![Rated4](https://user-images.githubusercontent.com/95837693/170157155-0f01b9d7-116d-45a3-91e3-aa2480da9bd6.png)
 
 ### Models:
 Random Forrests model, resulted in 100% accuracy; however, did not separate the data set into training and testing sets. Also, rounded the ratings and encoded the columns with countries. 
@@ -56,9 +66,11 @@ Explanation of model choice, including limitations and benefit
 * Feature importances: 0-company_location, 1-company_of_bean_origin, 2-cocoa_percent
 * ![image](https://user-images.githubusercontent.com/96098938/169912873-739066b7-da8b-4a50-ab47-658fb0c64846.png)
 
+### Dashboard:
 
+Our dashboard will be created in Tableau to demonstrate the origins of beans of the top rated chocolates and the top tastes used to describe those chocolates. You'll be able to filter the rating of chocolates you want to see the information for.
 
-
+![DashboardConcept](https://user-images.githubusercontent.com/95837693/170155548-3870e81c-1744-47fd-b9d8-49f5180632eb.PNG)
 
 
 ### Team Communication Strategy:
