@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#exploratory analysis file
+exploratory_analysis.ipynb
