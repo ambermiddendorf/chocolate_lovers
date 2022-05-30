@@ -13,6 +13,19 @@ Entity Relationship diagram for chocolate_lovers database.
 
 ![main](resources/chocolate_lovers.png)
 
+Creation of 'chocolate' table used for visualizations in Tableau and the export of the table to Postgres SQL database is done in:
+https://github.com/ambermiddendorf/chocolate_lovers/blob/main/Coding.ipynb
+
+Creation of 'tastes' table which was joined with chocolate to create the taste_ratings table to create visualizations is done in:
+https://github.com/ambermiddendorf/chocolate_lovers/blob/main/word_files/Tastes-Rounded.ipynb
+
+Join statement to create a tastes_ratings table for visualizations:
+
+CREATE TABLE taste_ratings AS
+	SELECT chocolate_id, word, rating
+	FROM tastes 
+	JOIN chocolate ON tastes.chocolate_id = chocolate.index; 
+
 ### Questions:
 * How does the percent of Cocoa & the origin of the Bean impact the rating?
 * Where do the highest rank beans come from?
