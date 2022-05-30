@@ -50,29 +50,42 @@ CREATE TABLE taste_ratings AS
 ![Rated4](https://user-images.githubusercontent.com/95837693/170157155-0f01b9d7-116d-45a3-91e3-aa2480da9bd6.png)
 
 ### Models:
-Random Forrests model, resulted in 100% accuracy; however, did not separate the data set into training and testing sets. Also, rounded the ratings and encoded the columns with countries. 
-Encoded DF
-![image](https://user-images.githubusercontent.com/96098938/168457617-f5788bbd-b3d8-43a0-a168-a56abd86c9c6.png)
-![image](https://user-images.githubusercontent.com/96098938/168457641-70682550-7c8b-471c-987e-42f384db6a73.png)
+* Random Forests
+* KNN
+* Easy Ensemble Data Boost
+* KNN with SMOTE and Random Oversampling
+
 Preliminary data preprocessing
 * Shape of the data (2224 rows and 21 columns)
 * Dtypes
-* Dropped the following columns ("ref", "company", "review_date", "specific_bean_origin_or_bar_name", "beans","first_taste","second_taste", "third_taste", "fourth_taste"). Cannot determine what information was conveyed in “ref” column; the columns that addressed taste will be analyzed separately; “beans” was dropped because it included the name of the bean and we are interested in countries;  review date was not necessary for rating generalization; and “specific_bean_origin_or_bar_name” had many unique entries since this column included possible bar names or bean origin. 
+* Dropped the following columns ("ref", "specific_bean_origin_or_bar_name","beans","first_taste","second_taste", "third_taste", "fourth_taste"). Cannot determine what information was conveyed in “ref” column; the columns that addressed taste will be analyzed separately; and “specific_bean_origin_or_bar_name” had many unique entries since this column included possible bar names or bean origin. 
 * Checked the dataset for missing values (there were none)
-* Checked the dataset for unique value counts in each column. 
+* Checked the dataset for unique value counts in each column.
+* Only one chocolate bar reeceived rating 1 and nobody achieved rating higher than 4. The ratings were spread as follows
+![image](https://user-images.githubusercontent.com/96098938/170914879-2ff4a75f-cf6b-4aa8-8ad1-695eb8e39385.png)
+![image](https://user-images.githubusercontent.com/96098938/170914926-b528be09-f6a9-4049-a920-56163fe16653.png)
+* The ratings initially had 13 unique values. Rounded the values to achieve 3 total groups ( rating 2, 3, and 4).
+* The majority of chocolate bars were rated above 3
+* ![image](https://user-images.githubusercontent.com/96098938/170915236-5778f0da-be41-412f-b666-302fda0ffcc9.png)
 
-Preliminary feature engineering and preliminary feature selection including their decision-making process
+
+ Preliminary feature engineering and preliminary feature selection including their decision-making process
 * Remaining columns after dropping are features and “rating” column as outcome
-* For the country that produced the bar feature, we used the top 6 producers (U.S.A., France, Canada, U.K., Italy, and Belgium) and put the rest in the “Other” category since these countries  had less than 50 entries. This feature was encoded. 
-* For the producer, we used top 6 top bean producers and put the rest of the countries into the “Others” category since they did not have more than 60 entries. This feature was encoded. 
-* One of the features “cocoa_percent” was scaled since the values in this column varied from 42.0 to 100.0 and were significantly larger than any other values in the data frame. 
+* After splitting the data into training and testing sets, these were the counts for y-values ("rating" column)
+![image](https://user-images.githubusercontent.com/96098938/170915354-7246074f-ff11-4d37-b8d2-56dcff775daf.png)
+
+* Encoded data in the columns that contained categorical data
+* Several features (“cocoa_percent”, "count_of_ingredients") were scaled to normalize data. 
 * Used get_dummies function for the remaining ingredient columns.
 Description of how data was split into training and testing sets 
-* Data was split as follows 75%-training and 25% testing
+* Data was split as follows 75%-training and 25% testing, additionally it was stratified to ensure we had samples from each rating group in the testing and training group
+* After splitting data into training and testing sets, used SMOTE to balance the dataset. 
 Explanation of model choice, including limitations and benefit
-* The preliminary model was Random Forests
-* One of the limitations of the model is that it did not perform well with ratings 2 and 4 due to not many chocolate bars rated as 2 and 4. Many ratings were spread around 3.5, so the model did well with being able to predict if the chocolate bar would be rated as 3. 
-* Some of the benefits of this model is that it is one of the most efficient classification models that can take into account many different features to produce a good prediction model.
+* The following  models were attempted: Random Forests, KNN, Easy Ensmeble Data Boost, KNN with SMOTE
+* The results are shown below
+* ![image](https://user-images.githubusercontent.com/96098938/170915607-dfcb58c1-913b-4ae9-b435-52ccbccd9690.png)
+
+* Some models performed better with being able to predict if the chocolate bar will be rated 3 and higher but did not perform well with predicting rating 2. 
 
 * After splitting the data into training and testing sets, the model performed fairly well with prediciting the chocolate bars with raiting 3. 
 ![image](https://user-images.githubusercontent.com/96098938/169912601-bfee0455-62c6-4f43-8f74-4039e4cf980a.png)
