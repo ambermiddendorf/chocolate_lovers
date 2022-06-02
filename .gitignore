@@ -3,6 +3,23 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Amber's Excludes
+2list.csv
+2list.xlsx
+3list.csv
+3list.xlsx
+4.csv
+4list.csv
+4list.xlsx
+Tastes.ipynb
+tastes.csv
+tastes.xlsx
+top_words.csv
+4Tastes.jpg
+Rated1or2.png
+Rated3.png
+Rated4.png
+
 config.py
 
 # C extensions
