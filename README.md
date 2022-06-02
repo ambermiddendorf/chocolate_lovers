@@ -97,10 +97,12 @@ Explanation of model choice, including limitations and benefit
 
 Our dashboard will be created in Tableau to demonstrate the origins of beans of the top rated chocolates and the top tastes used to describe those chocolates. You'll be able to filter the rating of chocolates to see correlating information.
 
-![DashboardConcept](https://user-images.githubusercontent.com/95837693/170160491-952f944b-4e78-4d3a-870d-bc57e95c447d.PNG)
+![DashboardConcept](https://user-images.githubusercontent.com/95837693/171538039-2054d1a0-79c9-4d66-92ba-0b1f6e12ddbe.PNG)
+
+[Dashboard](https://public.tableau.com/app/profile/amber.middendorf/viz/Chocolate_Lovers_Maps/ChocolateStory?publish=yes)
 
 ### Presentation:
-Google Slides presentation - https://docs.google.com/presentation/d/1te5ZXxZTKd96h4kvXEQcbKajDS40BcD1Jgh-bilh2kU/edit#slide=id.g12a98ee664f_0_1
+[Google Slides presentation](https://docs.google.com/presentation/d/1te5ZXxZTKd96h4kvXEQcbKajDS40BcD1Jgh-bilh2kU/edit#slide=id.g12a98ee664f_0_1)
 
 ### Team Communication Strategy:
 Slack & Zoom
