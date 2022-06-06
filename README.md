@@ -100,11 +100,11 @@ Features:
 * ![image](https://user-images.githubusercontent.com/96098938/169912873-739066b7-da8b-4a50-ab47-658fb0c64846.png)
 * Cocoa percentage appears to be the most important feature that influences the rating, followed by the company location and the bean location
 * Explored the features with Ridge regression and established that the company who produced the chocolate bar has significant impact on the rating
-* Three companies-Soma, Ritual, and Potomac-have the most positive effect on the rating (possibly they are the most skilled)
-* ![image](https://user-images.githubusercontent.com/96098938/171998615-585a71d8-3045-497a-b86d-b175cd7438d5.png)
-* ![image](https://user-images.githubusercontent.com/96098938/171998636-ccbe289a-019b-4682-94e5-42d0de8c5fe5.png)
+* Three companies-Soma, Ritual, and Potomac-have the most positive effect on the rating (possibly they are the most skilled):
 
-
+|Importance ratings                                                   | Avg Ratings/Bar Counts|
+|-------------------------------------------------------------------- |-----------------------| 
+|![image](https://user-images.githubusercontent.com/96098938/171998615-585a71d8-3045-497a-b86d-b175cd7438d5.png)|![image](https://user-images.githubusercontent.com/96098938/171998636-ccbe289a-019b-4682-94e5-42d0de8c5fe5.png)|
 
 ### Dashboard:
 
@@ -116,6 +116,3 @@ Our dashboard wiill be created in Tableau to demonstrate the origins of beans of
 
 ### Presentation:
 [Google Slides presentation](https://docs.google.com/presentation/d/1te5ZXxZTKd96h4kvXEQcbKajDS40BcD1Jgh-bilh2kU/edit#slide=id.g12a98ee664f_0_1)
-
-### Team Communication Strategy:
-Slack & Zoom
