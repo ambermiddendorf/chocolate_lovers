@@ -54,7 +54,9 @@ CREATE TABLE taste_ratings AS
 ![Rated4](https://user-images.githubusercontent.com/95837693/170157155-0f01b9d7-116d-45a3-91e3-aa2480da9bd6.png)
 
 ### Models:
-* retrained_KNN_model_final.ipynb
+* retrained_KNN_model_final.ipynb -final KNNmodel
+* rating_trends.ipynb (explores features and their importance in the rating)
+* 
 * KNN (best at detecting chocolate bar rated 3 and 4)
 * KNN with SMOTEEN (best at detecting 2')
 
