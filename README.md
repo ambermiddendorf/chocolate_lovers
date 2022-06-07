@@ -54,15 +54,13 @@ CREATE TABLE taste_ratings AS
 ![Rated4](https://user-images.githubusercontent.com/95837693/170157155-0f01b9d7-116d-45a3-91e3-aa2480da9bd6.png)
 
 ### Models:
-* Random Forests
-* KNN
-* Easy Ensemble Data Boost
-* KNN with SMOTE and Random Oversampling
+* KNN (best at detecting chocolate bar rated 3 and 4)
+* KNN with SMOTEEN (best at detecting 2')
 
 Preliminary data preprocessing
 * Shape of the data (2224 rows and 21 columns)
 * Dtypes
-* Dropped the following columns ("ref", "specific_bean_origin_or_bar_name","beans","first_taste","second_taste", "third_taste", "fourth_taste"). Cannot determine what information was conveyed in “ref” column; the columns that addressed taste will be analyzed separately; and “specific_bean_origin_or_bar_name” had many unique entries since this column included possible bar names or bean origin. 
+* Dropped the following columns ( "ref", ""specific_bean_origin_or_bar_name”,"beans","first_taste","second_taste", "third_taste", "fourth_taste"). Cannot determine what information was conveyed in “ref” column; the columns that addressed taste will be analyzed separately; and “specific_bean_origin_or_bar_name” had many unique entries since this column included possible bar names or bean origin. 
 * Checked the dataset for missing values (there were none)
 * Checked the dataset for unique value counts in each column.
 * Only one chocolate bar reeceived rating 1 and nobody achieved rating higher than 4. The ratings were spread as follows
@@ -74,32 +72,47 @@ Preliminary data preprocessing
 
 
  Preliminary feature engineering and preliminary feature selection including their decision-making process
-* Remaining columns after dropping are features and “rating” column as outcome
+* Used remaining columns after dropping as features and “rating” column as outcome. 
 * After splitting the data into training and testing sets, these were the counts for y-values ("rating" column)
 ![image](https://user-images.githubusercontent.com/96098938/170915354-7246074f-ff11-4d37-b8d2-56dcff775daf.png)
 
-* Encoded data in the columns that contained categorical data
-* Several features (“cocoa_percent”, "count_of_ingredients") were scaled to normalize data. 
-* Used get_dummies function for the remaining ingredient columns.
+* Encoded data in the columns that contained categorical data (used get_dummies)
+* The dataframe was  scaled to normalize data. 
+
 Description of how data was split into training and testing sets 
 * Data was split as follows 75%-training and 25% testing, additionally it was stratified to ensure we had samples from each rating group in the testing and training group
-* After splitting data into training and testing sets, used SMOTE to balance the dataset. 
+* After splitting data into training and testing sets, used SMOTEEN to balance the dataset.
+ 
 Explanation of model choice, including limitations and benefit
-* The following  models were attempted: Random Forests, KNN, Easy Ensmeble Data Boost, KNN with SMOTE
+* The following  models were attempted: Random Forests, KNN, Easy Ensmeble Data Boost, KNN with SMOTEEN
 * The results are shown below
 * ![image](https://user-images.githubusercontent.com/96098938/170915607-dfcb58c1-913b-4ae9-b435-52ccbccd9690.png)
 
 * Some models performed better with being able to predict if the chocolate bar will be rated 3 and higher but did not perform well with predicting rating 2. 
 
 * After splitting the data into training and testing sets, the model performed fairly well with prediciting the chocolate bars with raiting 3. 
-![image](https://user-images.githubusercontent.com/96098938/169912601-bfee0455-62c6-4f43-8f74-4039e4cf980a.png)
 
+
+Training and retraining the model:
+* tried binning the top companies, locations for companies and bean locations; however, it resulted in drop of accuracy score by approximately 5% from current 56% accuarcy for KNN model
+* tried to balance the dataset by using over and undersampling. The model performes better at detecting chocolate bars rated as 2 and 4 better after usung SMOTE and SMOTEEN; however, the precision for detecting 3's decreased
+
+![image](https://user-images.githubusercontent.com/96098938/171998332-02726036-25ab-4e75-9fb9-4575196d5db3.png)
+
+Features:
 * Feature importances: 0-company_location, 1-company_of_bean_origin, 2-cocoa_percent
 * ![image](https://user-images.githubusercontent.com/96098938/169912873-739066b7-da8b-4a50-ab47-658fb0c64846.png)
+* Cocoa percentage appears to be the most important feature that influences the rating, followed by the company location and the bean location
+* Explored the features with Ridge regression and established that the company who produced the chocolate bar has significant impact on the rating
+* Three companies-Soma, Ritual, and Potomac-have the most positive effect on the rating (possibly they are the most skilled):
+
+|Importance ratings                                                   | Avg Ratings/Bar Counts|
+|-------------------------------------------------------------------- |-----------------------| 
+|![image](https://user-images.githubusercontent.com/96098938/171998615-585a71d8-3045-497a-b86d-b175cd7438d5.png)|![image](https://user-images.githubusercontent.com/96098938/171998636-ccbe289a-019b-4682-94e5-42d0de8c5fe5.png)|
 
 ### Dashboard:
 
-Our dashboard will be created in Tableau to demonstrate the origins of beans of the top rated chocolates and the top tastes used to describe those chocolates. You'll be able to filter the rating of chocolates to see correlating information.
+Our dashboard wiill be created in Tableau to demonstrate the origins of beans of the top rated chocolates and the top tastes used to describe those chocolates. You'll be able to filter the rating of chocolates to see correlating information.
 
 ![DashboardConcept](https://user-images.githubusercontent.com/95837693/171538039-2054d1a0-79c9-4d66-92ba-0b1f6e12ddbe.PNG)
 
@@ -107,6 +120,3 @@ Our dashboard will be created in Tableau to demonstrate the origins of beans of 
 
 ### Presentation:
 [Google Slides presentation](https://docs.google.com/presentation/d/1te5ZXxZTKd96h4kvXEQcbKajDS40BcD1Jgh-bilh2kU/edit#slide=id.g12a98ee664f_0_1)
-
-### Team Communication Strategy:
-Slack & Zoom
