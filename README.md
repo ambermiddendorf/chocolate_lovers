@@ -56,7 +56,6 @@ CREATE TABLE taste_ratings AS
 ### Models:
 * retrained_KNN_model_final.ipynb -final KNNmodel
 * rating_trends.ipynb (explores features and their importance in the rating)
-* 
 * KNN (best at detecting chocolate bar rated 3 and 4)
 * KNN with SMOTEEN (best at detecting 2')
 
