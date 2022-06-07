@@ -13,6 +13,10 @@ Entity Relationship diagram for chocolate_lovers database.
 
 ![main](resources/chocolate_lovers.png)
 
+Database : chocolate_db
+
+Tables : chocolate,region,tastes
+
 Creation of 'chocolate' table used for visualizations in Tableau and the export of the table to Postgres SQL database is done in:
 https://github.com/ambermiddendorf/chocolate_lovers/blob/main/Coding.ipynb
 
