@@ -13,13 +13,10 @@ Entity Relationship diagram for chocolate_lovers database.
 
 ![main](resources/chocolate_lovers.png)
 
-<<<<<<< HEAD
 Database : chocolate_db
 
 Tables : chocolate,region,tastes
 
-
-=======
 Creation of 'chocolate' table used for visualizations in Tableau and the export of the table to Postgres SQL database is done in:
 https://github.com/ambermiddendorf/chocolate_lovers/blob/main/Coding.ipynb
 
@@ -32,7 +29,6 @@ CREATE TABLE taste_ratings AS
 	SELECT chocolate_id, word, rating
 	FROM tastes 
 	JOIN chocolate ON tastes.chocolate_id = chocolate.index; 
->>>>>>> 4084db525b8b6d8079a609ee6db6e4fd6717ead2
 
 ### Questions:
 * How does the percent of Cocoa & the origin of the Bean impact the rating?
