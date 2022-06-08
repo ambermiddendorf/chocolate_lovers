@@ -40,9 +40,9 @@ CREATE TABLE taste_ratings AS
 
 ![BeanOrigin](https://user-images.githubusercontent.com/95837693/170160404-0cce849e-75bc-429b-852d-e8e98e20b790.PNG)
 
-* Pie chart to show top rated chocolates by ingredient and / or country.
+* Bar chart to show top rated chocolates by ingredient and / or country.
 
-![CompanyLocations](https://user-images.githubusercontent.com/95837693/170160418-b984d22d-5c8b-4658-bfd4-aeb3b2ccfbc8.PNG)
+![BeanOriginBar](https://user-images.githubusercontent.com/95837693/172517834-b02998b5-bfcd-4165-ae88-f2f5263cb991.PNG)
 
 * Avg rating by country or region.
 
@@ -116,7 +116,7 @@ Features:
 
 Our dashboard wiill be created in Tableau to demonstrate the origins of beans of the top rated chocolates and the top tastes used to describe those chocolates. You'll be able to filter the rating of chocolates to see correlating information.
 
-![DashboardConcept](https://user-images.githubusercontent.com/95837693/171538039-2054d1a0-79c9-4d66-92ba-0b1f6e12ddbe.PNG)
+![DashboardConcept](https://user-images.githubusercontent.com/95837693/172517514-76454d1e-3aec-4187-927f-f67df7b344a9.PNG)
 
 [Dashboard](https://public.tableau.com/app/profile/amber.middendorf/viz/Chocolate_Lovers_Maps/ChocolateStory?publish=yes)
 
