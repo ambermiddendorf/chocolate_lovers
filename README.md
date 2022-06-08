@@ -17,11 +17,17 @@ Database : chocolate_db
 
 Tables : chocolate,region,tastes
 
-Creation of 'chocolate' table used for visualizations in Tableau and the export of the table to Postgres SQL database is done in:
-https://github.com/ambermiddendorf/chocolate_lovers/blob/main/Coding.ipynb
+* Creation of 'chocolate' table used for visualizations in Tableau and the export of the table to Postgres SQL database is done in:
 
-Creation of 'tastes' table which was joined with chocolate to create the taste_ratings table to create visualizations is done in:
-https://github.com/ambermiddendorf/chocolate_lovers/blob/main/word_files/Tastes-Rounded.ipynb
+	[Coding.ipynb](https://github.com/ambermiddendorf/chocolate_lovers/blob/main/Coding.ipynb)
+
+* Creation of 'tastes' table which was joined with chocolate to create the taste_ratings table to create visualizations is done in:
+
+	[Tastes-Rounded.ipynb](https://github.com/ambermiddendorf/chocolate_lovers/blob/main/word_files/Tastes-Rounded.ipynb)
+
+* Connection of machine learning model with the AWS database done in:
+
+	[Final_KNN_with db_conn.ipynb](https://github.com/ambermiddendorf/chocolate_lovers/blob/main/Final_KNN_with%20db_conn.ipynb)
 
 Join statement to create a tastes_ratings table for visualizations:
 
