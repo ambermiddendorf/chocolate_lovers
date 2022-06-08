@@ -1,0 +1,2225 @@
+chocolate_id,company_location,country_of_bean_origin,cocoa_percent,counts_of_ingredients,cocoa_butter,vanilla,lecithin,salt,sugar,sweetener_without_sugar,rating
+563,Australia,Australia,70,5,1,1,1,0,1,0,3
+564,Australia,Australia,70,3,1,0,0,0,1,0,3
+1857,Australia,Australia,67,3,1,0,0,0,1,0,4
+1856,Australia,Belize,70,3,1,0,0,0,1,0,4
+2221,Austria,Belize,72,3,1,0,0,0,1,0,4
+1413,Belgium,Belize,70,3,1,0,0,0,1,0,4
+87,Canada,Belize,64,4,1,0,1,0,1,0,3
+1363,Canada,Belize,70,3,1,0,0,0,1,0,3
+1540,Canada,Belize,74,3,1,0,0,0,1,0,3
+1578,Canada,Belize,72,2,0,0,0,0,1,0,3
+2098,Canada,Belize,74,3,1,0,0,0,1,0,4
+1171,France,Belize,70,2,0,0,0,0,1,0,4
+212,Germany,Belize,83,3,1,0,0,0,1,0,4
+213,Germany,Belize,78,3,1,0,0,0,1,0,3
+214,Germany,Belize,83,3,1,0,0,0,1,0,3
+461,Germany,Belize,82,2,0,0,0,0,1,0,3
+462,Germany,Belize,75,2,0,0,0,0,1,0,3
+2063,Germany,Belize,72,3,1,0,0,0,1,0,4
+1829,Italy,Belize,67,4,1,0,0,1,1,0,3
+1977,Japan,Belize,70,5,1,1,1,0,1,0,3
+1135,Netherlands,Belize,70,2,0,0,0,0,1,0,3
+768,Portugal,Belize,76,2,0,0,0,0,1,0,3
+1586,Spain,Belize,75,2,0,0,0,0,1,0,3
+2069,United Kingdom,Belize,70,3,1,0,0,0,1,0,4
+114,United States of America,Belize,70,2,0,0,0,0,1,0,4
+185,United States of America,Belize,72,3,1,0,0,0,1,0,2
+233,United States of America,Belize,86,4,1,1,0,0,1,0,3
+257,United States of America,Belize,70,2,0,0,0,0,1,0,3
+270,United States of America,Belize,70,3,1,0,0,0,1,0,3
+311,United States of America,Belize,70,3,1,0,0,0,1,0,4
+320,United States of America,Belize,80,3,1,0,0,0,1,0,3
+335,United States of America,Belize,72,3,1,0,0,0,1,0,3
+443,United States of America,Belize,72,3,1,0,0,0,1,0,4
+454,United States of America,Belize,70,3,1,0,0,0,1,0,3
+579,United States of America,Belize,70,2,0,0,0,0,1,0,4
+582,United States of America,Belize,70,2,0,0,0,0,1,0,3
+649,United States of America,Belize,72,2,0,0,0,0,1,0,4
+763,United States of America,Belize,80,3,1,0,0,0,1,0,3
+791,United States of America,Belize,75,2,0,0,0,0,1,0,3
+875,United States of America,Belize,70,2,0,0,0,0,1,0,4
+928,United States of America,Belize,70,2,0,0,0,0,1,0,4
+936,United States of America,Belize,70,2,0,0,0,0,1,0,3
+997,United States of America,Belize,70,3,1,0,0,0,1,0,3
+1086,United States of America,Belize,72,2,0,0,0,0,1,0,3
+1090,United States of America,Belize,70,2,0,0,0,0,1,0,4
+1143,United States of America,Belize,90,2,0,0,0,0,1,0,3
+1146,United States of America,Belize,72,3,1,0,0,0,1,0,3
+1167,United States of America,Belize,70,4,1,0,1,0,1,0,3
+1217,United States of America,Belize,70,2,0,0,0,0,1,0,3
+1338,United States of America,Belize,70,2,0,0,0,0,1,0,4
+1356,United States of America,Belize,70,2,0,0,0,0,1,0,3
+1366,United States of America,Belize,70,2,0,0,0,0,1,0,3
+1405,United States of America,Belize,80,4,1,0,0,1,1,0,3
+1409,United States of America,Belize,80,3,1,0,0,0,1,0,4
+1437,United States of America,Belize,67,3,1,0,0,0,1,0,3
+1438,United States of America,Belize,73,3,1,0,0,0,1,0,3
+1439,United States of America,Belize,72,3,1,0,0,0,1,0,3
+1498,United States of America,Belize,75,4,0,1,1,0,0,1,3
+1732,United States of America,Belize,75,2,0,0,0,0,1,0,4
+1812,United States of America,Belize,70,3,1,0,0,0,1,0,4
+1815,United States of America,Belize,72,2,0,0,0,0,1,0,3
+1968,United States of America,Belize,78,2,0,0,0,0,1,0,3
+2018,United States of America,Belize,68,3,1,0,0,0,1,0,3
+2043,United States of America,Belize,70,2,0,0,0,0,1,0,4
+2050,United States of America,Belize,77,3,1,0,0,0,1,0,3
+2138,United States of America,Belize,77,2,0,0,0,0,1,0,3
+2167,United States of America,Belize,68,3,1,0,0,0,1,0,3
+2182,United States of America,Belize,70,3,1,0,0,0,1,0,4
+177,Australia,Blend,70,2,0,0,0,0,1,0,2
+179,Australia,Blend,80,2,0,0,0,0,1,0,3
+1353,Australia,Blend,70,3,1,0,0,0,1,0,4
+2198,Australia,Blend,65,5,1,1,1,0,1,0,3
+2211,Austria,Blend,65,4,1,0,0,1,0,1,4
+2213,Austria,Blend,58,4,1,0,0,1,0,1,4
+2219,Austria,Blend,80,4,1,0,0,1,0,1,3
+2223,Austria,Blend,75,3,1,0,0,0,1,0,3
+660,Belgium,Blend,70,3,0,0,1,0,1,0,2
+661,Belgium,Blend,88,3,0,0,1,0,1,0,3
+1478,Belgium,Blend,73,5,1,1,1,0,1,0,2
+1479,Belgium,Blend,73,5,1,1,1,0,1,0,1
+1615,Belgium,Blend,70,5,1,1,1,0,1,0,4
+1618,Belgium,Blend,85,5,1,1,1,0,1,0,4
+781,Canada,Blend,70,3,1,0,0,0,1,0,3
+972,Canada,Blend,70,3,1,0,0,0,1,0,4
+975,Canada,Blend,70,3,1,0,0,0,1,0,3
+976,Canada,Blend,80,3,1,0,0,0,1,0,3
+978,Canada,Blend,74,3,1,0,0,0,1,0,3
+979,Canada,Blend,65,3,1,0,0,0,1,0,3
+1315,Canada,Blend,75,2,0,0,0,0,1,0,3
+1529,Canada,Blend,85,5,1,1,1,0,1,0,3
+1530,Canada,Blend,76,5,1,1,1,0,1,0,3
+1531,Canada,Blend,85,5,1,1,1,0,1,0,3
+1532,Canada,Blend,76,5,1,1,1,0,1,0,2
+1571,Canada,Blend,75,2,0,0,0,0,1,0,4
+1888,Canada,Blend,70,3,1,0,0,0,1,0,4
+1890,Canada,Blend,70,3,1,0,0,0,1,0,4
+1895,Canada,Blend,70,3,1,0,0,0,1,0,4
+1896,Canada,Blend,70,3,1,0,0,0,1,0,4
+1900,Canada,Blend,70,3,1,0,0,0,1,0,4
+1903,Canada,Blend,88,3,1,0,0,0,1,0,4
+1905,Canada,Blend,67,3,1,0,0,0,1,0,4
+1911,Canada,Blend,70,3,1,0,0,0,1,0,3
+1919,Canada,Blend,70,3,1,0,0,0,1,0,3
+1924,Canada,Blend,75,3,1,0,0,0,1,0,4
+1245,Colombia,Blend,60,5,1,1,1,0,1,0,3
+1246,Colombia,Blend,58,5,1,1,1,0,1,0,3
+1247,Colombia,Blend,46,5,1,1,1,0,1,0,3
+224,France,Blend,55,5,1,1,1,0,1,0,3
+276,France,Blend,75,3,1,0,0,0,1,0,4
+297,France,Blend,65,3,1,0,0,0,1,0,4
+301,France,Blend,75,3,1,0,0,0,1,0,4
+1174,France,Blend,74,4,1,0,1,0,1,0,4
+1175,France,Blend,60,4,1,0,1,0,1,0,4
+1178,France,Blend,60,4,1,0,1,0,1,0,3
+1183,France,Blend,74,4,1,0,1,0,1,0,3
+1188,France,Blend,68,4,1,0,1,0,1,0,3
+1393,France,Blend,60,4,1,1,0,0,1,0,2
+1394,France,Blend,85,4,1,1,0,0,1,0,2
+1395,France,Blend,99,4,1,1,0,0,1,0,2
+1653,France,Blend,75,4,1,0,1,0,1,0,4
+1656,France,Blend,75,4,1,0,1,0,1,0,3
+2099,France,Blend,70,5,1,1,1,0,1,0,4
+2101,France,Blend,66,5,1,1,1,0,1,0,3
+2107,France,Blend,72,5,1,1,1,0,1,0,3
+2108,France,Blend,71,5,1,1,1,0,1,0,3
+2109,France,Blend,85,5,1,1,1,0,1,0,2
+2110,France,Blend,85,5,1,1,1,0,1,0,2
+2115,France,Blend,56,5,1,1,1,0,1,0,3
+2117,France,Blend,70,5,1,1,1,0,1,0,4
+2120,France,Blend,60,3,1,0,0,0,1,0,3
+546,Germany,Blend,72,3,1,0,0,0,1,0,4
+88,Italy,Blend,66,4,1,1,0,0,1,0,4
+92,Italy,Blend,63,4,1,1,0,0,1,0,4
+96,Italy,Blend,75,4,1,1,0,0,1,0,4
+100,Italy,Blend,70,3,1,0,0,0,1,0,3
+401,Italy,Blend,70,2,0,0,0,0,1,0,4
+673,Italy,Blend,70,2,0,0,0,0,1,0,4
+674,Italy,Blend,78,2,0,0,0,0,1,0,4
+944,Italy,Blend,64,4,1,0,1,0,1,0,3
+947,Italy,Blend,64,4,1,0,1,0,1,0,3
+1464,Lithuania,Blend,70,4,1,0,1,0,1,0,4
+996,Netherlands,Blend,71,4,1,0,1,0,1,0,2
+1387,Netherlands,Blend,70,3,0,1,0,0,1,0,4
+524,Sao Tome,Blend,75,3,1,0,0,0,1,0,4
+525,Sao Tome,Blend,80,3,1,0,0,0,1,0,3
+526,Sao Tome,Blend,73.5,2,0,0,0,0,1,0,4
+262,Spain,Blend,72,4,1,1,0,0,1,0,3
+497,Spain,Blend,70,4,1,0,1,0,1,0,3
+501,Spain,Blend,60,4,1,0,1,0,1,0,3
+502,Spain,Blend,75,4,1,0,1,0,1,0,3
+775,Switzerland,Blend,62,5,1,1,1,0,1,0,2
+1229,Switzerland,Blend,85,4,1,1,0,0,1,0,3
+1548,Switzerland,Blend,80,2,0,0,0,0,1,0,3
+570,United Kingdom,Blend,65,4,1,0,1,0,1,0,2
+938,United Kingdom,Blend,70,5,1,1,1,0,1,0,2
+248,United States of America,Blend,70,2,0,0,0,0,1,0,4
+336,United States of America,Blend,72,3,1,0,0,0,1,0,3
+427,United States of America,Blend,75,2,0,0,0,0,1,0,2
+474,United States of America,Blend,80,2,0,0,0,0,0,1,2
+601,United States of America,Blend,70,2,0,0,0,0,1,0,3
+611,United States of America,Blend,58,4,1,0,1,0,1,0,3
+651,United States of America,Blend,73,2,0,0,0,0,1,0,4
+753,United States of America,Blend,74,4,1,1,0,0,1,0,3
+756,United States of America,Blend,62,4,1,1,0,0,1,0,3
+757,United States of America,Blend,55,4,1,1,0,0,1,0,2
+760,United States of America,Blend,62,4,1,1,0,0,1,0,2
+952,United States of America,Blend,61,5,1,1,1,0,1,0,4
+954,United States of America,Blend,61,5,1,1,1,0,1,0,3
+956,United States of America,Blend,72,5,1,1,1,0,1,0,4
+959,United States of America,Blend,64,5,1,1,1,0,1,0,3
+960,United States of America,Blend,70,5,1,1,1,0,1,0,4
+962,United States of America,Blend,91,5,1,1,1,0,1,0,3
+964,United States of America,Blend,61,5,1,1,1,0,1,0,3
+965,United States of America,Blend,72,5,1,1,1,0,1,0,3
+966,United States of America,Blend,72,5,1,1,1,0,1,0,3
+971,United States of America,Blend,70,5,1,1,1,0,1,0,4
+1199,United States of America,Blend,72,5,1,1,1,0,1,0,3
+1228,United States of America,Blend,75,2,0,0,0,0,1,0,3
+1311,United States of America,Blend,72,3,1,0,0,0,1,0,3
+1337,United States of America,Blend,72,2,0,0,0,0,1,0,4
+1345,United States of America,Blend,73,2,0,0,0,0,1,0,4
+1347,United States of America,Blend,72,2,0,0,0,0,1,0,2
+1348,United States of America,Blend,75,2,0,0,0,0,1,0,4
+1404,United States of America,Blend,65,4,1,0,0,1,0,1,2
+1525,United States of America,Blend,75,3,1,0,0,0,1,0,3
+1526,United States of America,Blend,67,3,1,0,0,0,1,0,3
+1591,United States of America,Blend,65,3,0,1,0,0,1,0,4
+1605,United States of America,Blend,70,3,1,0,0,0,1,0,4
+1735,United States of America,Blend,70,2,0,0,0,0,1,0,4
+1775,United States of America,Blend,69,4,1,1,0,0,0,1,3
+1776,United States of America,Blend,83,4,1,1,0,0,0,1,3
+1788,United States of America,Blend,70,5,1,1,1,0,1,0,4
+1789,United States of America,Blend,62,5,1,1,1,0,1,0,3
+1790,United States of America,Blend,82,5,1,1,1,0,1,0,2
+1791,United States of America,Blend,68,5,1,1,1,0,1,0,2
+1794,United States of America,Blend,72,5,1,1,1,0,1,0,3
+1795,United States of America,Blend,62,5,1,1,1,0,1,0,3
+1796,United States of America,Blend,75,5,1,1,1,0,1,0,3
+1797,United States of America,Blend,72,5,1,1,1,0,1,0,3
+1874,United States of America,Blend,70,3,1,0,0,0,1,0,4
+2023,United States of America,Blend,68,5,1,1,1,0,1,0,3
+2024,United States of America,Blend,60,5,1,1,1,0,1,0,3
+2025,United States of America,Blend,62,5,1,1,1,0,1,0,2
+2032,United States of America,Blend,70,4,1,1,0,0,1,0,3
+2055,United States of America,Blend,75,3,1,0,0,0,1,0,3
+2129,United States of America,Blend,70,3,1,0,0,0,1,0,3
+2130,United States of America,Blend,90,3,1,0,0,0,1,0,4
+2187,United States of America,Blend,60,3,1,0,0,0,1,0,3
+1853,Australia,Bolivia ,72,3,1,0,0,0,1,0,3
+2194,Australia,Bolivia ,72,4,1,0,1,0,1,0,4
+2195,Australia,Bolivia ,68,4,1,0,1,0,1,0,4
+1332,Austria,Bolivia ,76,3,1,0,0,0,1,0,3
+2214,Austria,Bolivia ,90,4,1,0,0,1,0,1,3
+725,Bolivia ,Bolivia ,71,4,1,0,1,0,1,0,3
+726,Bolivia ,Bolivia ,75,4,1,0,1,0,1,0,4
+341,Canada,Bolivia ,70,4,1,0,1,0,1,0,4
+1064,Canada,Bolivia ,70,3,1,0,0,0,1,0,3
+1065,Canada,Bolivia ,70,3,1,0,0,0,1,0,3
+1572,Canada,Bolivia ,72,2,0,0,0,0,1,0,3
+1576,Canada,Bolivia ,70,2,0,0,0,0,1,0,3
+1840,Canada,Bolivia ,73,2,0,0,0,0,1,0,4
+1892,Canada,Bolivia ,70,3,1,0,0,0,1,0,4
+4,France,Bolivia ,70,4,1,0,1,0,1,0,4
+452,France,Bolivia ,74,2,0,0,0,0,1,0,3
+1523,Germany,Bolivia ,70,2,0,0,0,0,1,0,4
+813,New Zealand,Bolivia ,70,2,0,0,0,0,1,0,3
+804,Singapore,Bolivia ,70,2,0,0,0,0,1,0,3
+1590,Spain,Bolivia ,76,2,0,0,0,0,1,0,3
+770,Switzerland,Bolivia ,68,5,1,1,1,0,1,0,4
+1544,Switzerland,Bolivia ,68,3,1,0,0,0,1,0,3
+1547,Switzerland,Bolivia ,66,3,1,0,0,0,1,0,4
+1952,Switzerland,Bolivia ,70,4,1,0,1,0,1,0,3
+332,United Kingdom,Bolivia ,70,3,1,0,0,0,1,0,2
+2070,United Kingdom,Bolivia ,70,3,1,0,0,0,1,0,3
+56,United States of America,Bolivia ,80,4,1,0,1,0,1,0,3
+59,United States of America,Bolivia ,60,4,1,0,1,0,1,0,3
+64,United States of America,Bolivia ,60,3,1,0,0,0,1,0,2
+107,United States of America,Bolivia ,75,2,0,0,0,0,1,0,4
+134,United States of America,Bolivia ,70,2,0,0,0,0,1,0,4
+210,United States of America,Bolivia ,70,3,1,0,0,0,1,0,3
+317,United States of America,Bolivia ,70,3,1,0,0,0,1,0,4
+406,United States of America,Bolivia ,75,3,1,0,0,0,1,0,3
+433,United States of America,Bolivia ,70,3,1,0,0,0,1,0,3
+447,United States of America,Bolivia ,70,3,1,0,0,0,1,0,3
+481,United States of America,Bolivia ,70,2,0,0,0,0,1,0,2
+610,United States of America,Bolivia ,75,3,1,0,0,0,1,0,3
+634,United States of America,Bolivia ,80,2,0,0,0,0,1,0,3
+639,United States of America,Bolivia ,75,2,0,0,0,0,1,0,3
+643,United States of America,Bolivia ,70,2,0,0,0,0,1,0,4
+910,United States of America,Bolivia ,74,2,0,0,0,0,1,0,4
+1001,United States of America,Bolivia ,67,3,1,0,0,0,1,0,4
+1002,United States of America,Bolivia ,67,3,1,0,0,0,1,0,3
+1006,United States of America,Bolivia ,72,3,1,0,0,0,1,0,4
+1007,United States of America,Bolivia ,68,3,1,0,0,0,1,0,4
+1158,United States of America,Bolivia ,68,5,1,1,1,0,1,0,3
+1204,United States of America,Bolivia ,74,3,1,0,0,0,1,0,4
+1211,United States of America,Bolivia ,70,2,0,0,0,0,1,0,3
+1225,United States of America,Bolivia ,68,2,0,0,0,0,1,0,4
+1226,United States of America,Bolivia ,68,2,0,0,0,0,1,0,4
+1369,United States of America,Bolivia ,70,2,0,0,0,0,1,0,2
+1403,United States of America,Bolivia ,75,4,1,0,0,1,0,1,2
+1593,United States of America,Bolivia ,70,2,0,0,0,0,1,0,3
+1754,United States of America,Bolivia ,75,2,0,0,0,0,1,0,3
+1756,United States of America,Bolivia ,75,2,0,0,0,0,1,0,4
+1762,United States of America,Bolivia ,75,2,0,0,0,0,1,0,3
+1875,United States of America,Bolivia ,70,2,0,0,0,0,1,0,3
+1964,United States of America,Bolivia ,70,3,1,0,0,0,1,0,2
+2017,United States of America,Bolivia ,87,3,1,0,0,0,1,0,3
+2031,United States of America,Bolivia ,67,3,1,0,0,0,1,0,3
+2037,United States of America,Bolivia ,70,3,1,0,0,0,1,0,3
+2049,United States of America,Bolivia ,77,3,1,0,0,0,1,0,3
+2068,United States of America,Bolivia ,77,3,1,0,0,0,1,0,3
+2082,United States of America,Bolivia ,75,2,0,0,0,0,1,0,2
+2124,United States of America,Bolivia ,70,2,0,0,0,0,1,0,3
+2125,United States of America,Bolivia ,70,2,0,0,0,0,1,0,3
+2128,United States of America,Bolivia ,70,2,0,0,0,0,1,0,3
+2145,United States of America,Bolivia ,70,5,1,1,1,0,1,0,2
+2151,United States of America,Bolivia ,72,3,1,0,0,0,1,0,3
+2164,United States of America,Bolivia ,76,3,1,0,0,0,1,0,4
+1220,United States of America,Bolivia ,70,3,1,0,0,0,1,0,3
+1777,Argentina,Brazil,70,4,1,0,1,0,1,0,4
+176,Australia,Brazil,70,2,0,0,0,0,1,0,2
+553,Australia,Brazil,65,3,1,0,0,0,1,0,3
+2203,Austria,Brazil,65,4,1,0,0,1,0,1,3
+1421,Belgium,Brazil,76,3,1,0,0,0,1,0,3
+1619,Belgium,Brazil,72,5,1,1,1,0,1,0,3
+101,Brazil,Brazil,60,4,1,0,1,0,1,0,4
+102,Brazil,Brazil,50,4,1,0,1,0,1,0,4
+103,Brazil,Brazil,75,4,1,0,1,0,1,0,4
+104,Brazil,Brazil,85,4,1,0,1,0,1,0,3
+105,Brazil,Brazil,75,4,1,0,1,0,1,0,3
+180,Brazil,Brazil,70,2,0,0,0,0,1,0,3
+428,Brazil,Brazil,65,2,0,0,0,0,1,0,3
+429,Brazil,Brazil,71,2,0,0,0,0,1,0,3
+615,Brazil,Brazil,72,3,1,0,0,0,1,0,4
+616,Brazil,Brazil,65,3,1,0,0,0,1,0,4
+1242,Brazil,Brazil,81,2,0,0,0,0,1,0,3
+1243,Brazil,Brazil,70,2,0,0,0,0,1,0,3
+1382,Brazil,Brazil,75,3,1,0,0,0,1,0,2
+1434,Brazil,Brazil,70,2,0,0,0,0,1,0,4
+1435,Brazil,Brazil,75,2,0,0,0,0,1,0,4
+1509,Brazil,Brazil,70,3,1,0,0,0,1,0,4
+1696,Brazil,Brazil,65,3,1,0,0,0,1,0,3
+1697,Brazil,Brazil,60,3,1,0,0,0,1,0,3
+1698,Brazil,Brazil,85,3,1,0,0,0,1,0,4
+1699,Brazil,Brazil,75,3,1,0,0,0,1,0,3
+1700,Brazil,Brazil,80,3,1,0,0,0,1,0,3
+1701,Brazil,Brazil,55,3,1,0,0,0,1,0,3
+507,Canada,Brazil,70,4,1,1,0,0,1,0,3
+508,Canada,Brazil,80,4,1,1,0,0,1,0,3
+1927,Canada,Brazil,70,3,1,0,0,0,1,0,4
+9,France,Brazil,70,4,1,0,1,0,1,0,3
+288,France,Brazil,75,3,1,0,0,0,1,0,4
+292,France,Brazil,75,3,1,0,0,0,1,0,4
+294,France,Brazil,75,3,1,0,0,0,1,0,4
+296,France,Brazil,75,3,1,0,0,0,1,0,4
+1192,France,Brazil,75,4,1,0,1,0,1,0,3
+1401,France,Brazil,70,4,1,1,0,0,1,0,3
+1657,France,Brazil,75,4,1,0,1,0,1,0,3
+1659,France,Brazil,75,4,1,0,1,0,1,0,4
+1524,Germany,Brazil,78,3,1,0,0,0,1,0,4
+1994,Hungary,Brazil,70,3,1,0,0,0,1,0,4
+1828,Italy,Brazil,60,4,1,0,0,1,1,0,3
+1425,Japan,Brazil,70,2,0,0,0,0,1,0,3
+1978,Japan,Brazil,70,5,1,1,1,0,1,0,3
+1384,Sweden,Brazil,70,3,1,0,0,0,1,0,3
+44,Switzerland,Brazil,75,4,1,0,1,0,1,0,3
+1961,Switzerland,Brazil,68,4,1,1,0,0,1,0,3
+154,United Kingdom,Brazil,72,3,1,0,0,0,1,0,2
+115,United States of America,Brazil,70,2,0,0,0,0,1,0,4
+120,United States of America,Brazil,75,2,0,0,0,0,1,0,3
+190,United States of America,Brazil,70,2,0,0,0,0,1,0,4
+194,United States of America,Brazil,70,3,1,0,0,0,1,0,4
+200,United States of America,Brazil,80,3,1,0,0,0,1,0,3
+404,United States of America,Brazil,70,3,1,0,0,0,1,0,3
+516,United States of America,Brazil,70,3,1,0,0,0,1,0,4
+647,United States of America,Brazil,75,2,0,0,0,0,1,0,4
+766,United States of America,Brazil,75,2,0,0,0,0,1,0,3
+873,United States of America,Brazil,70,2,0,0,0,0,1,0,4
+927,United States of America,Brazil,66,2,0,0,0,0,1,0,3
+983,United States of America,Brazil,77,3,1,0,0,0,1,0,4
+984,United States of America,Brazil,74,3,1,0,0,0,1,0,4
+985,United States of America,Brazil,67,3,1,0,0,0,1,0,3
+986,United States of America,Brazil,85,3,1,0,0,0,1,0,3
+987,United States of America,Brazil,75,3,1,0,0,0,1,0,3
+1149,United States of America,Brazil,70,4,1,0,1,0,1,0,4
+1163,United States of America,Brazil,70,5,1,1,1,0,1,0,4
+1260,United States of America,Brazil,70,4,1,1,0,0,1,0,4
+1441,United States of America,Brazil,72,3,1,0,0,0,1,0,2
+1486,United States of America,Brazil,72,2,0,0,0,0,1,0,3
+1645,United States of America,Brazil,70,2,0,0,0,0,1,0,4
+1799,United States of America,Brazil,68,5,1,1,1,0,1,0,4
+2027,United States of America,Brazil,70,3,1,0,0,0,1,0,4
+2038,United States of America,Brazil,70,3,1,0,0,0,1,0,3
+282,France,Côte d'Ivoire,75,3,1,0,0,0,1,0,3
+1194,France,Côte d'Ivoire,75,4,1,0,1,0,1,0,3
+1034,Israel,Côte d'Ivoire,70,2,0,0,0,0,1,0,2
+2056,United States of America,Côte d'Ivoire,75,4,1,1,0,0,1,0,2
+1625,Belgium,Cameroon,70,5,1,1,1,0,1,0,3
+1627,Belgium,Cameroon,70,4,1,0,1,0,1,0,3
+1440,United States of America,Cameroon,68,2,0,0,0,0,1,0,3
+1330,Austria,Colombia,74,3,1,0,0,0,1,0,3
+2220,Austria,Colombia,75,3,1,0,0,0,1,0,4
+1207,Belgium,Colombia,70,3,1,0,0,0,1,0,3
+720,Canada,Colombia,70,3,1,0,0,0,1,0,3
+721,Canada,Colombia,70,3,1,0,0,0,1,0,3
+784,Canada,Colombia,70,3,1,0,0,0,1,0,3
+1132,Canada,Colombia,70,3,1,0,0,0,1,0,3
+1929,Canada,Colombia,70,3,1,0,0,0,1,0,4
+367,Colombia,Colombia,64,4,1,0,1,0,1,0,4
+368,Colombia,Colombia,70,4,1,0,1,0,1,0,4
+369,Colombia,Colombia,70,4,1,0,1,0,1,0,3
+370,Colombia,Colombia,69,4,1,0,1,0,1,0,3
+371,Colombia,Colombia,72,3,1,0,0,0,1,0,4
+372,Colombia,Colombia,71,3,1,0,0,0,1,0,4
+373,Colombia,Colombia,74,3,1,0,0,0,1,0,4
+422,Colombia,Colombia,65,3,1,0,0,0,1,0,4
+423,Colombia,Colombia,65,3,1,0,0,0,1,0,4
+424,Colombia,Colombia,65,3,1,0,0,0,1,0,3
+425,Colombia,Colombia,65,3,1,0,0,0,1,0,3
+426,Colombia,Colombia,65,3,1,0,0,0,1,0,3
+1244,Colombia,Colombia,65,5,1,1,1,0,1,0,4
+1281,Colombia,Colombia,70,4,1,0,1,0,1,0,3
+1782,Colombia,Colombia,70,5,1,1,1,0,1,0,4
+1783,Colombia,Colombia,65,5,1,1,1,0,1,0,3
+1784,Colombia,Colombia,53,5,1,1,1,0,1,0,2
+1785,Colombia,Colombia,70,5,1,1,1,0,1,0,3
+1786,Colombia,Colombia,75,3,0,0,1,0,1,0,3
+2061,Colombia,Colombia,70,3,0,0,1,0,1,0,3
+2062,Colombia,Colombia,70,3,0,0,1,0,1,0,3
+1565,Ecuador,Colombia,70,4,1,0,1,0,1,0,4
+15,France,Colombia,70,4,1,0,1,0,1,0,3
+1399,France,Colombia,69,4,1,1,0,0,1,0,3
+1676,France,Colombia,75,4,1,0,1,0,1,0,3
+676,Italy,Colombia,70,2,0,0,0,0,1,0,3
+1830,Italy,Colombia,68,4,1,0,0,1,1,0,3
+2005,Japan,Colombia,70,5,1,1,1,0,1,0,3
+1141,Netherlands,Colombia,70,2,0,0,0,0,1,0,3
+815,New Zealand,Colombia,70,2,0,0,0,0,1,0,3
+1295,Poland,Colombia,85,2,0,0,0,0,1,0,4
+2096,Spain,Colombia,70,3,1,0,0,0,1,0,4
+354,Switzerland,Colombia,72,2,0,0,0,0,1,0,4
+355,Switzerland,Colombia,72,2,0,0,0,0,1,0,3
+356,Switzerland,Colombia,72,2,0,0,0,0,1,0,2
+161,United Kingdom,Colombia,72,3,1,0,0,0,1,0,4
+163,United Kingdom,Colombia,72,4,1,0,1,0,1,0,3
+684,United Kingdom,Colombia,80,3,1,0,0,0,1,0,3
+1043,United Kingdom,Colombia,75,4,1,0,1,0,1,0,3
+2072,United Kingdom,Colombia,70,3,1,0,0,0,1,0,3
+2161,United Kingdom,Colombia,88,3,1,0,0,0,1,0,3
+2162,United Kingdom,Colombia,70,3,1,0,0,0,1,0,4
+140,United States of America,Colombia,70,2,0,0,0,0,1,0,4
+437,United States of America,Colombia,72,3,1,0,0,0,1,0,4
+438,United States of America,Colombia,76,3,1,0,0,0,1,0,4
+562,United States of America,Colombia,70,2,0,0,0,0,1,0,3
+572,United States of America,Colombia,70,2,0,0,0,0,1,0,3
+790,United States of America,Colombia,75,2,0,0,0,0,1,0,3
+912,United States of America,Colombia,85,2,0,0,0,0,1,0,4
+931,United States of America,Colombia,73,3,1,0,0,0,1,0,2
+953,United States of America,Colombia,65,5,1,1,1,0,1,0,3
+1101,United States of America,Colombia,73,4,1,0,1,0,1,0,3
+1306,United States of America,Colombia,75,3,1,0,0,0,1,0,3
+1494,United States of America,Colombia,72,3,1,0,0,0,1,0,3
+1596,United States of America,Colombia,75,3,1,0,0,0,1,0,3
+1650,United States of America,Colombia,70,2,0,0,0,0,1,0,4
+1814,United States of America,Colombia,70,3,1,0,0,0,1,0,3
+2207,Austria,Congo,65,4,1,0,0,1,0,1,3
+2215,Austria,Congo,68,4,1,0,0,1,0,1,3
+2222,Austria,Congo,70,3,1,0,0,0,1,0,3
+2202,Belgium,Congo,68,3,1,0,0,0,0,1,3
+484,Netherlands,Congo,68,3,1,0,0,0,1,0,4
+1514,Scotland,Congo,70,3,1,0,0,0,1,0,4
+263,Spain,Congo,82,4,1,1,0,0,1,0,4
+387,Spain,Congo,70,4,1,0,1,0,1,0,4
+1545,Switzerland,Congo,70,3,1,0,0,0,1,0,3
+148,United Kingdom,Congo,72,3,1,0,0,0,1,0,4
+1709,United States of America,Congo,75,3,1,0,0,0,1,0,3
+2058,United States of America,Congo,65,4,1,1,0,0,1,0,3
+205,Belgium,Costa Rica,64,4,1,0,1,0,1,0,3
+827,Belgium,Costa Rica,70,4,1,0,1,0,1,0,4
+1206,Belgium,Costa Rica,70,3,1,0,0,0,1,0,3
+417,Costa Rica,Costa Rica,72,2,0,0,0,0,1,0,3
+418,Costa Rica,Costa Rica,80,2,0,0,0,0,1,0,3
+420,Costa Rica,Costa Rica,72,2,0,0,0,0,1,0,4
+421,Costa Rica,Costa Rica,72,2,0,0,0,0,1,0,3
+1461,Costa Rica,Costa Rica,70,3,1,0,0,0,1,0,3
+1462,Costa Rica,Costa Rica,58,3,1,0,0,0,1,0,2
+1825,Costa Rica,Costa Rica,70,3,1,0,0,0,1,0,4
+1826,Costa Rica,Costa Rica,82,3,1,0,0,0,1,0,3
+1743,Korea,Costa Rica,70,2,0,0,0,0,1,0,3
+1744,Korea,Costa Rica,70,2,0,0,0,0,1,0,3
+1745,Korea,Costa Rica,70,2,0,0,0,0,1,0,3
+157,United Kingdom,Costa Rica,72,3,1,0,0,0,1,0,3
+193,United Kingdom,Costa Rica,80,4,1,1,0,0,1,0,3
+121,United States of America,Costa Rica,70,2,0,0,0,0,1,0,4
+191,United States of America,Costa Rica,72,2,0,0,0,0,1,0,4
+235,United States of America,Costa Rica,76,2,0,0,0,0,1,0,2
+236,United States of America,Costa Rica,78,4,1,1,0,0,1,0,2
+457,United States of America,Costa Rica,70,3,1,0,0,0,1,0,4
+520,United States of America,Costa Rica,70,3,1,0,0,0,1,0,3
+573,United States of America,Costa Rica,70,2,0,0,0,0,1,0,3
+584,United States of America,Costa Rica,70,2,0,0,0,0,1,0,3
+619,United States of America,Costa Rica,64,4,1,1,0,0,1,0,3
+632,United States of America,Costa Rica,77,2,0,0,0,0,1,0,4
+754,United States of America,Costa Rica,65,4,1,1,0,0,1,0,2
+837,United States of America,Costa Rica,80,2,0,0,0,0,1,0,3
+902,United States of America,Costa Rica,66,3,1,0,0,0,1,0,3
+903,United States of America,Costa Rica,70,3,1,0,0,0,1,0,3
+909,United States of America,Costa Rica,74,2,0,0,0,0,1,0,4
+930,United States of America,Costa Rica,73,3,1,0,0,0,1,0,3
+998,United States of America,Costa Rica,74,3,1,0,0,0,1,0,4
+1213,United States of America,Costa Rica,70,2,0,0,0,0,1,0,3
+1255,United States of America,Costa Rica,70,4,1,1,0,0,1,0,3
+1287,United States of America,Costa Rica,72,3,1,0,0,0,1,0,4
+1643,United States of America,Costa Rica,82,2,0,0,0,0,1,0,4
+1644,United States of America,Costa Rica,70,2,0,0,0,0,1,0,4
+1646,United States of America,Costa Rica,70,2,0,0,0,0,1,0,3
+1728,United States of America,Costa Rica,75,2,0,0,0,0,1,0,4
+2000,United States of America,Costa Rica,70,4,1,1,0,0,1,0,3
+2171,United States of America,Costa Rica,70,2,0,0,0,0,1,0,3
+221,Belgium,Cuba,74,3,1,0,0,0,1,0,4
+1621,Belgium,Cuba,78,5,1,1,1,0,1,0,4
+18,France,Cuba,70,4,1,0,1,0,1,0,4
+289,France,Cuba,75,3,1,0,0,0,1,0,4
+1187,France,Cuba,70,4,1,0,1,0,1,0,3
+1193,France,Cuba,75,4,1,0,1,0,1,0,3
+1655,France,Cuba,75,4,1,0,1,0,1,0,3
+1991,Hungary,Cuba,70,3,1,0,0,0,1,0,4
+1996,Hungary,Cuba,88,3,1,0,0,0,1,0,3
+403,Italy,Cuba,75,2,0,0,0,0,1,0,2
+1266,Italy,Cuba,70,5,1,1,1,0,1,0,3
+1566,Japan,Cuba,72,5,1,1,1,0,1,0,4
+325,Australia,Dominican Republic,70,3,1,0,0,0,1,0,4
+1860,Australia,Dominican Republic,70,3,1,0,0,0,1,0,4
+1948,Australia,Dominican Republic,70,3,1,0,0,0,1,0,4
+2208,Austria,Dominican Republic,62,4,1,0,0,1,0,1,4
+2209,Austria,Dominican Republic,70,4,1,0,0,1,0,1,4
+1416,Belgium,Dominican Republic,70,3,1,0,0,0,1,0,3
+84,Canada,Dominican Republic,75,2,0,0,0,0,1,0,3
+717,Canada,Dominican Republic,70,3,1,0,0,0,1,0,4
+973,Canada,Dominican Republic,75,3,1,0,0,0,1,0,3
+1062,Canada,Dominican Republic,70,3,1,0,0,0,1,0,4
+1063,Canada,Dominican Republic,70,3,1,0,0,0,1,0,4
+1451,Canada,Dominican Republic,72,2,0,0,0,0,1,0,4
+1538,Canada,Dominican Republic,72,3,1,0,0,0,1,0,3
+1541,Canada,Dominican Republic,72,3,1,0,0,0,1,0,3
+1582,Canada,Dominican Republic,75,2,0,0,0,0,1,0,3
+1886,Canada,Dominican Republic,70,3,1,0,0,0,1,0,3
+1887,Canada,Dominican Republic,70,3,1,0,0,0,1,0,3
+1891,Canada,Dominican Republic,70,3,1,0,0,0,1,0,4
+1907,Canada,Dominican Republic,77,3,1,0,0,0,1,0,4
+1925,Canada,Dominican Republic,62,3,1,0,0,0,1,0,4
+1939,Canada,Dominican Republic,70,2,0,0,0,0,1,0,3
+2090,Canada,Dominican Republic,75,2,0,0,0,0,1,0,3
+1372,Denmark,Dominican Republic,70,2,0,0,0,0,0,1,3
+627,Dominican Republic,Dominican Republic,80,2,0,0,0,0,1,0,3
+628,Dominican Republic,Dominican Republic,70,2,0,0,0,0,1,0,3
+629,Dominican Republic,Dominican Republic,70,2,0,0,0,0,1,0,2
+1110,Dominican Republic,Dominican Republic,70,5,1,1,1,0,1,0,4
+1111,Dominican Republic,Dominican Republic,55,5,1,1,1,0,1,0,3
+1112,Dominican Republic,Dominican Republic,62,5,1,1,1,0,1,0,3
+1113,Dominican Republic,Dominican Republic,82,5,1,1,1,0,1,0,3
+1114,Dominican Republic,Dominican Republic,68,4,1,0,1,0,1,0,4
+1116,Dominican Republic,Dominican Republic,71.5,3,1,0,0,0,1,0,4
+1117,Dominican Republic,Dominican Republic,70,3,1,0,0,0,1,0,3
+2176,Dominican Republic,Dominican Republic,66,5,1,0,1,1,1,0,3
+298,France,Dominican Republic,75,3,1,0,0,0,1,0,3
+352,France,Dominican Republic,70,5,1,1,1,0,1,0,3
+742,France,Dominican Republic,70,2,0,0,0,0,1,0,3
+1180,France,Dominican Republic,66,4,1,0,1,0,1,0,4
+1389,France,Dominican Republic,67,4,1,1,0,0,1,0,4
+1661,France,Dominican Republic,75,4,1,0,1,0,1,0,2
+2111,France,Dominican Republic,64,5,1,1,1,0,1,0,4
+2118,France,Dominican Republic,64,5,1,1,1,0,1,0,4
+919,Germany,Dominican Republic,70,4,1,0,1,0,1,0,4
+920,Germany,Dominican Republic,80,4,1,0,1,0,1,0,4
+465,Hungary,Dominican Republic,71,3,1,0,0,0,1,0,3
+1986,Hungary,Dominican Republic,70,3,1,0,0,0,1,0,3
+1475,Ireland,Dominican Republic,70,2,0,0,0,0,1,0,3
+1031,Israel,Dominican Republic,75,2,0,0,0,0,1,0,4
+1033,Israel,Dominican Republic,70,2,0,0,0,0,1,0,3
+402,Italy,Dominican Republic,72,2,0,0,0,0,1,0,3
+1265,Italy,Dominican Republic,70,5,1,1,1,0,1,0,4
+1691,Italy,Dominican Republic,65,4,1,0,1,0,1,0,4
+485,Netherlands,Dominican Republic,75,3,1,0,0,0,1,0,3
+1021,New Zealand,Dominican Republic,75,3,1,0,0,0,1,0,3
+2147,New Zealand,Dominican Republic,70,2,0,0,0,0,0,1,4
+1292,Poland,Dominican Republic,70,2,0,0,0,0,1,0,3
+797,Puerto Rico,Dominican Republic,70,6,1,1,1,1,1,0,3
+798,Puerto Rico,Dominican Republic,80,6,1,1,1,1,1,0,3
+806,Singapore,Dominican Republic,72,2,0,0,0,0,1,0,3
+1588,Spain,Dominican Republic,76,2,0,0,0,0,1,0,3
+774,Switzerland,Dominican Republic,74,5,1,1,1,0,1,0,3
+149,United Kingdom,Dominican Republic,72,3,1,0,0,0,1,0,3
+469,United Kingdom,Dominican Republic,80,2,0,0,0,0,1,0,2
+699,United Kingdom,Dominican Republic,65,3,1,0,0,0,1,0,4
+1805,United Kingdom,Dominican Republic,70,2,0,0,0,0,1,0,3
+1869,United Kingdom,Dominican Republic,85,2,0,0,0,0,1,0,3
+1,United States of America,Dominican Republic,76,3,1,0,0,0,1,0,4
+58,United States of America,Dominican Republic,60,4,1,0,1,0,1,0,3
+66,United States of America,Dominican Republic,70,3,1,0,0,0,1,0,3
+73,United States of America,Dominican Republic,70,4,1,1,0,0,1,0,4
+106,United States of America,Dominican Republic,75,2,0,0,0,0,1,0,3
+117,United States of America,Dominican Republic,70,2,0,0,0,0,1,0,4
+125,United States of America,Dominican Republic,70,2,0,0,0,0,1,0,4
+188,United States of America,Dominican Republic,70,2,0,0,0,0,1,0,3
+195,United States of America,Dominican Republic,65,3,1,0,0,0,1,0,4
+201,United States of America,Dominican Republic,70,3,1,0,0,0,1,0,3
+209,United States of America,Dominican Republic,70,2,0,0,0,0,1,0,4
+240,United States of America,Dominican Republic,68,2,0,0,0,0,1,0,4
+244,United States of America,Dominican Republic,65,2,0,0,0,0,1,0,4
+247,United States of America,Dominican Republic,75,2,0,0,0,0,1,0,3
+254,United States of America,Dominican Republic,70,2,0,0,0,0,1,0,3
+259,United States of America,Dominican Republic,70,3,1,0,0,0,1,0,3
+268,United States of America,Dominican Republic,75,2,0,0,0,0,1,0,3
+303,United States of America,Dominican Republic,72,3,1,0,0,0,1,0,3
+309,United States of America,Dominican Republic,72,5,1,1,1,0,1,0,3
+312,United States of America,Dominican Republic,68,3,1,0,0,0,1,0,4
+316,United States of America,Dominican Republic,70,3,1,0,0,0,1,0,3
+319,United States of America,Dominican Republic,80,3,1,0,0,0,1,0,3
+322,United States of America,Dominican Republic,60,3,1,0,0,0,1,0,3
+330,United States of America,Dominican Republic,68,3,1,0,0,0,1,0,3
+345,United States of America,Dominican Republic,75,2,0,0,0,0,1,0,3
+346,United States of America,Dominican Republic,75,2,0,0,0,0,1,0,2
+375,United States of America,Dominican Republic,66,2,0,0,0,0,1,0,4
+376,United States of America,Dominican Republic,65,2,0,0,0,0,1,0,3
+377,United States of America,Dominican Republic,72,2,0,0,0,0,1,0,3
+378,United States of America,Dominican Republic,72,2,0,0,0,0,1,0,4
+430,United States of America,Dominican Republic,73,2,0,0,0,0,1,0,4
+439,United States of America,Dominican Republic,70,3,1,0,0,0,1,0,3
+440,United States of America,Dominican Republic,70,3,1,0,0,0,1,0,4
+476,United States of America,Dominican Republic,60,2,0,0,0,0,1,0,3
+477,United States of America,Dominican Republic,75,2,0,0,0,0,1,0,3
+517,United States of America,Dominican Republic,72,3,1,0,0,0,1,0,4
+561,United States of America,Dominican Republic,70,2,0,0,0,0,1,0,3
+565,United States of America,Dominican Republic,72,2,0,0,0,0,1,0,3
+571,United States of America,Dominican Republic,70,2,0,0,0,0,1,0,4
+578,United States of America,Dominican Republic,70,2,0,0,0,0,1,0,4
+583,United States of America,Dominican Republic,70,2,0,0,0,0,1,0,4
+589,United States of America,Dominican Republic,70,2,0,0,0,0,1,0,3
+612,United States of America,Dominican Republic,70,4,1,0,1,0,1,0,3
+633,United States of America,Dominican Republic,77,2,0,0,0,0,1,0,4
+636,United States of America,Dominican Republic,74,2,0,0,0,0,1,0,3
+642,United States of America,Dominican Republic,74,2,0,0,0,0,1,0,4
+691,United States of America,Dominican Republic,75,2,0,0,0,0,1,0,3
+693,United States of America,Dominican Republic,75,2,0,0,0,0,1,0,2
+710,United States of America,Dominican Republic,70,2,0,0,0,0,1,0,3
+714,United States of America,Dominican Republic,70,3,1,0,0,0,1,0,3
+761,United States of America,Dominican Republic,80,3,1,0,0,0,1,0,4
+777,United States of America,Dominican Republic,70,3,1,0,0,0,1,0,3
+778,United States of America,Dominican Republic,80,3,1,0,0,0,1,0,3
+779,United States of America,Dominican Republic,85,3,1,0,0,0,1,0,2
+789,United States of America,Dominican Republic,75,2,0,0,0,0,1,0,4
+831,United States of America,Dominican Republic,65,2,0,0,0,0,1,0,4
+846,United States of America,Dominican Republic,72,3,1,0,0,0,1,0,4
+849,United States of America,Dominican Republic,72,3,1,0,0,0,1,0,3
+860,United States of America,Dominican Republic,72,3,1,0,0,0,1,0,4
+862,United States of America,Dominican Republic,72,3,1,0,0,0,1,0,3
+905,United States of America,Dominican Republic,70,3,1,0,0,0,1,0,4
+990,United States of America,Dominican Republic,70,3,1,0,0,0,1,0,4
+1015,United States of America,Dominican Republic,71,2,0,0,0,0,0,1,4
+1079,United States of America,Dominican Republic,70,3,1,0,0,0,0,1,3
+1080,United States of America,Dominican Republic,70,3,1,0,0,0,0,1,3
+1087,United States of America,Dominican Republic,72,2,0,0,0,0,1,0,3
+1091,United States of America,Dominican Republic,70,2,0,0,0,0,1,0,3
+1115,United States of America,Dominican Republic,65,4,1,0,1,0,1,0,4
+1118,United States of America,Dominican Republic,72,4,1,0,1,0,1,0,3
+1130,United States of America,Dominican Republic,70,3,1,0,0,0,1,0,4
+1133,United States of America,Dominican Republic,60,2,0,0,0,0,1,0,3
+1144,United States of America,Dominican Republic,72,3,1,0,0,0,1,0,3
+1145,United States of America,Dominican Republic,72,3,1,0,0,0,1,0,3
+1153,United States of America,Dominican Republic,72.5,5,1,1,0,1,1,0,3
+1159,United States of America,Dominican Republic,74,5,1,1,1,0,1,0,4
+1169,United States of America,Dominican Republic,70,2,0,0,0,0,1,0,3
+1212,United States of America,Dominican Republic,70,2,0,0,0,0,1,0,3
+1227,United States of America,Dominican Republic,74,2,0,0,0,0,1,0,3
+1256,United States of America,Dominican Republic,70,4,1,1,0,0,1,0,2
+1277,United States of America,Dominican Republic,74,3,1,0,0,0,1,0,4
+1298,United States of America,Dominican Republic,70,3,1,0,0,0,1,0,4
+1309,United States of America,Dominican Republic,72,3,1,0,0,0,1,0,4
+1328,United States of America,Dominican Republic,89,4,1,1,0,0,1,0,2
+1329,United States of America,Dominican Republic,74,4,1,1,0,0,1,0,2
+1333,United States of America,Dominican Republic,70,2,0,0,0,0,1,0,3
+1336,United States of America,Dominican Republic,74,2,0,0,0,0,1,0,4
+1339,United States of America,Dominican Republic,73,2,0,0,0,0,1,0,3
+1357,United States of America,Dominican Republic,70,2,0,0,0,0,1,0,3
+1362,United States of America,Dominican Republic,72,2,0,0,0,0,1,0,3
+1365,United States of America,Dominican Republic,70,2,0,0,0,0,1,0,4
+1406,United States of America,Dominican Republic,75,3,0,0,0,1,0,1,2
+1407,United States of America,Dominican Republic,75,3,1,0,0,0,1,0,4
+1443,United States of America,Dominican Republic,70,2,0,0,0,0,1,0,4
+1446,United States of America,Dominican Republic,70,2,0,0,0,0,1,0,3
+1458,United States of America,Dominican Republic,71,2,0,0,0,0,1,0,3
+1472,United States of America,Dominican Republic,70,2,0,0,0,0,0,1,2
+1484,United States of America,Dominican Republic,72,2,0,0,0,0,1,0,3
+1492,United States of America,Dominican Republic,72,3,1,0,0,0,1,0,3
+1503,United States of America,Dominican Republic,70,2,0,0,0,0,1,0,4
+1527,United States of America,Dominican Republic,72,3,1,0,0,0,1,0,3
+1592,United States of America,Dominican Republic,70,2,0,0,0,0,1,0,4
+1598,United States of America,Dominican Republic,75,3,1,0,0,0,1,0,3
+1609,United States of America,Dominican Republic,82,3,1,0,0,0,1,0,3
+1642,United States of America,Dominican Republic,76,3,1,0,0,0,1,0,2
+1649,United States of America,Dominican Republic,70,2,0,0,0,0,1,0,4
+1707,United States of America,Dominican Republic,85,3,1,0,0,0,1,0,4
+1721,United States of America,Dominican Republic,72,3,1,0,0,0,1,0,4
+1750,United States of America,Dominican Republic,70,2,0,0,0,0,1,0,3
+1759,United States of America,Dominican Republic,70,2,0,0,0,0,1,0,4
+1808,United States of America,Dominican Republic,70,2,0,0,0,0,1,0,3
+1818,United States of America,Dominican Republic,74,2,0,0,0,0,1,0,4
+1942,United States of America,Dominican Republic,75,4,1,1,0,0,1,0,3
+1943,United States of America,Dominican Republic,70,4,1,1,0,0,1,0,3
+1944,United States of America,Dominican Republic,80,4,1,1,0,0,1,0,3
+1949,United States of America,Dominican Republic,70,3,1,0,0,0,1,0,4
+1953,United States of America,Dominican Republic,70,3,0,0,1,0,1,0,3
+1954,United States of America,Dominican Republic,84,3,0,0,1,0,1,0,2
+1956,United States of America,Dominican Republic,70,4,1,1,0,0,0,1,3
+2001,United States of America,Dominican Republic,70,4,1,1,0,0,1,0,3
+2015,United States of America,Dominican Republic,70,3,1,0,0,0,1,0,3
+2026,United States of America,Dominican Republic,70,4,1,1,0,0,1,0,4
+2046,United States of America,Dominican Republic,70,3,1,0,0,0,1,0,4
+2066,United States of America,Dominican Republic,74,3,1,0,0,0,1,0,3
+2074,United States of America,Dominican Republic,72,2,0,0,0,0,1,0,3
+2080,United States of America,Dominican Republic,73,2,0,0,0,0,1,0,3
+2081,United States of America,Dominican Republic,68,2,0,0,0,0,1,0,3
+2085,United States of America,Dominican Republic,75,2,0,0,0,0,1,0,3
+2091,United States of America,Dominican Republic,70,2,0,0,0,0,1,0,3
+2126,United States of America,Dominican Republic,70,2,0,0,0,0,1,0,3
+2133,United States of America,Dominican Republic,90,3,1,0,0,0,1,0,3
+2142,United States of America,Dominican Republic,70,5,1,1,1,0,1,0,3
+2169,United States of America,Dominican Republic,70,2,0,0,0,0,1,0,4
+2181,United States of America,Dominican Republic,70,2,0,0,0,0,1,0,2
+2183,United States of America,Dominican Republic,70,3,1,0,0,0,1,0,3
+1778,Argentina,Ecuador,70,4,1,0,1,0,1,0,4
+1780,Argentina,Ecuador,70,4,1,0,1,0,1,0,4
+326,Australia,Ecuador,72,3,1,0,0,0,1,0,4
+1845,Australia,Ecuador,72,3,1,0,0,0,1,0,4
+1854,Australia,Ecuador,70,3,1,0,0,0,1,0,4
+1946,Australia,Ecuador,70,3,1,0,0,0,1,0,4
+2192,Austria,Ecuador,70,3,1,0,0,0,1,0,3
+2217,Austria,Ecuador,75,4,1,0,0,1,0,1,3
+204,Belgium,Ecuador,71,4,1,0,1,0,1,0,4
+220,Belgium,Ecuador,73,3,1,0,0,0,1,0,4
+1419,Belgium,Ecuador,70,3,1,0,0,0,1,0,3
+1617,Belgium,Ecuador,72,5,1,1,1,0,1,0,4
+1539,Canada,Ecuador,72,3,1,0,0,0,1,0,3
+1573,Canada,Ecuador,75,2,0,0,0,0,1,0,3
+1833,Canada,Ecuador,73,3,1,0,0,0,1,0,4
+1837,Canada,Ecuador,100,1,0,0,0,0,0,0,3
+1839,Canada,Ecuador,73,2,0,0,0,0,1,0,4
+1917,Canada,Ecuador,80,3,1,0,0,0,1,0,4
+1928,Canada,Ecuador,70,3,1,0,0,0,1,0,3
+1940,Canada,Ecuador,75,2,0,0,0,0,1,0,3
+1373,Denmark,Ecuador,85,2,0,0,0,0,0,1,2
+40,Ecuador,Ecuador,70,4,1,1,0,0,1,0,3
+41,Ecuador,Ecuador,55,4,1,1,0,0,1,0,3
+302,Ecuador,Ecuador,77,2,0,0,0,0,1,0,3
+393,Ecuador,Ecuador,63,4,1,0,1,0,1,0,4
+394,Ecuador,Ecuador,71,4,1,0,1,0,1,0,4
+395,Ecuador,Ecuador,82,4,1,0,1,0,1,0,2
+396,Ecuador,Ecuador,91,4,1,0,1,0,1,0,2
+409,Ecuador,Ecuador,55,4,1,0,1,0,1,0,4
+410,Ecuador,Ecuador,55,4,1,0,1,0,1,0,3
+411,Ecuador,Ecuador,55,4,1,0,1,0,1,0,3
+412,Ecuador,Ecuador,77,4,1,0,1,0,1,0,3
+413,Ecuador,Ecuador,77,4,1,0,1,0,1,0,2
+414,Ecuador,Ecuador,77,4,1,0,1,0,1,0,2
+455,Ecuador,Ecuador,75,3,1,0,0,0,1,0,3
+456,Ecuador,Ecuador,55,3,1,0,0,0,1,0,3
+981,Ecuador,Ecuador,70,4,1,0,1,0,1,0,3
+982,Ecuador,Ecuador,55,4,1,0,1,0,1,0,3
+1026,Ecuador,Ecuador,58,4,1,0,1,0,1,0,4
+1027,Ecuador,Ecuador,58,4,1,0,1,0,1,0,3
+1028,Ecuador,Ecuador,72,2,0,0,0,0,1,0,3
+1029,Ecuador,Ecuador,80,2,0,0,0,0,1,0,2
+1030,Ecuador,Ecuador,80,4,1,0,1,0,1,0,2
+1122,Ecuador,Ecuador,70,4,1,1,0,0,1,0,4
+1123,Ecuador,Ecuador,70,4,1,1,0,0,1,0,3
+1124,Ecuador,Ecuador,85,4,1,1,0,0,1,0,3
+1125,Ecuador,Ecuador,85,4,1,1,0,0,1,0,3
+1126,Ecuador,Ecuador,75,4,1,1,0,0,1,0,3
+1127,Ecuador,Ecuador,85,4,1,1,0,0,1,0,3
+1128,Ecuador,Ecuador,85,4,1,1,0,0,1,0,2
+1129,Ecuador,Ecuador,75,4,1,1,0,0,1,0,2
+1489,Ecuador,Ecuador,72,3,1,0,0,0,1,0,4
+1554,Ecuador,Ecuador,70,4,1,0,1,0,1,0,4
+1555,Ecuador,Ecuador,72,4,1,0,1,0,1,0,3
+1556,Ecuador,Ecuador,65,4,1,0,1,0,1,0,3
+1557,Ecuador,Ecuador,60,4,1,0,1,0,1,0,3
+1558,Ecuador,Ecuador,70,4,1,0,1,0,1,0,4
+1560,Ecuador,Ecuador,85,4,1,0,1,0,1,0,3
+1561,Ecuador,Ecuador,70,4,1,0,1,0,1,0,4
+1562,Ecuador,Ecuador,70,4,1,0,1,0,1,0,4
+1563,Ecuador,Ecuador,70,4,1,0,1,0,1,0,4
+1564,Ecuador,Ecuador,70,4,1,0,1,0,1,0,3
+1723,Ecuador,Ecuador,75,4,1,0,1,0,1,0,4
+1724,Ecuador,Ecuador,67,4,1,0,1,0,1,0,4
+1725,Ecuador,Ecuador,75,4,1,0,1,0,1,0,3
+1726,Ecuador,Ecuador,75,4,1,0,1,0,1,0,2
+1727,Ecuador,Ecuador,75,4,1,0,1,0,1,0,3
+1781,Ecuador,Ecuador,70,4,1,0,1,0,1,0,3
+2065,Ecuador,Ecuador,81,2,0,0,0,0,1,0,3
+7,France,Ecuador,70,4,1,0,1,0,1,0,4
+110,France,Ecuador,75,3,1,0,0,0,1,0,3
+280,France,Ecuador,75,3,1,0,0,0,1,0,2
+1182,France,Ecuador,56,4,1,0,1,0,1,0,3
+1652,France,Ecuador,80,4,1,0,1,0,1,0,4
+1668,France,Ecuador,75,4,1,0,1,0,1,0,4
+2112,France,Ecuador,66,5,1,1,1,0,1,0,4
+545,Germany,Ecuador,72,3,1,0,0,0,1,0,2
+549,Germany,Ecuador,65,4,1,0,1,0,1,0,3
+980,Germany,Ecuador,77,4,1,1,0,0,1,0,2
+1993,Hungary,Ecuador,70,3,1,0,0,0,1,0,4
+1995,Hungary,Ecuador,70,3,1,0,0,0,1,0,3
+1035,Israel,Ecuador,70,4,1,0,1,0,1,0,4
+93,Italy,Ecuador,70,4,1,1,0,0,1,0,3
+400,Italy,Ecuador,100,1,0,0,0,0,0,0,4
+666,Italy,Ecuador,70,2,0,0,0,0,1,0,4
+681,Italy,Ecuador,70,2,0,0,0,0,1,0,4
+945,Italy,Ecuador,64,4,1,0,1,0,1,0,3
+1267,Italy,Ecuador,70,4,0,1,1,0,1,0,3
+1269,Italy,Ecuador,70,4,1,0,1,0,1,0,2
+1694,Italy,Ecuador,73,4,1,0,1,0,1,0,3
+338,Korea,Ecuador,70,2,0,0,0,0,1,0,3
+2073,Korea,Ecuador,70,2,0,0,0,0,1,0,4
+52,Netherlands,Ecuador,70,3,1,0,0,0,1,0,4
+809,New Zealand,Ecuador,70,2,0,0,0,0,1,0,4
+1024,New Zealand,Ecuador,85,3,1,0,0,0,1,0,4
+1499,Nicaragua,Ecuador,80,2,0,0,0,0,1,0,3
+1293,Poland,Ecuador,70,2,0,0,0,0,1,0,3
+329,Russia,Ecuador,70,2,0,0,0,0,1,0,3
+488,Scotland,Ecuador,82,3,1,0,0,0,1,0,2
+800,Singapore,Ecuador,75,2,0,0,0,0,1,0,4
+1040,South Africa,Ecuador,72,2,0,0,0,0,0,1,2
+78,Spain,Ecuador,70,2,0,0,0,0,1,0,3
+79,Spain,Ecuador,85,2,0,0,0,0,1,0,3
+382,Spain,Ecuador,71,4,1,0,1,0,1,0,4
+498,Spain,Ecuador,71,4,1,0,1,0,1,0,2
+229,Switzerland,Ecuador,72,3,1,0,0,0,1,0,4
+771,Switzerland,Ecuador,72,5,1,1,1,0,1,0,4
+460,United Kingdom,Ecuador,70,3,1,0,0,0,1,0,3
+566,United Kingdom,Ecuador,70,3,1,0,0,0,1,0,4
+694,United Kingdom,Ecuador,72,3,1,0,0,0,1,0,4
+697,United Kingdom,Ecuador,70,3,1,0,0,0,1,0,2
+1051,United Kingdom,Ecuador,80,4,1,0,1,0,1,0,3
+1055,United Kingdom,Ecuador,82,2,0,0,0,0,1,0,4
+1057,United Kingdom,Ecuador,90,2,0,0,0,0,1,0,3
+1059,United Kingdom,Ecuador,100,1,0,0,0,0,0,0,2
+1681,United Kingdom,Ecuador,75,3,1,0,0,0,1,0,3
+1683,United Kingdom,Ecuador,85,3,1,0,0,0,1,0,3
+1687,United Kingdom,Ecuador,77,3,1,0,0,0,1,0,4
+63,United States of America,Ecuador,60,3,1,0,0,0,1,0,3
+72,United States of America,Ecuador,70,4,1,1,0,0,1,0,4
+113,United States of America,Ecuador,70,2,0,0,0,0,1,0,4
+118,United States of America,Ecuador,75,3,1,0,0,0,1,0,4
+130,United States of America,Ecuador,70,3,1,0,0,0,1,0,3
+131,United States of America,Ecuador,70,3,1,0,0,0,1,0,3
+164,United States of America,Ecuador,70,2,0,0,0,0,1,0,3
+196,United States of America,Ecuador,65,3,1,0,0,0,1,0,3
+202,United States of America,Ecuador,70,3,1,0,0,0,1,0,3
+203,United States of America,Ecuador,90,3,1,0,0,0,1,0,3
+305,United States of America,Ecuador,75,3,1,0,0,0,1,0,4
+308,United States of America,Ecuador,70,5,1,1,1,0,1,0,3
+315,United States of America,Ecuador,75,3,1,0,0,0,1,0,4
+333,United States of America,Ecuador,72,3,1,0,0,0,1,0,4
+337,United States of America,Ecuador,60,3,1,0,0,0,1,0,2
+450,United States of America,Ecuador,70,3,1,0,0,0,1,0,2
+459,United States of America,Ecuador,72,3,1,0,0,0,1,0,4
+475,United States of America,Ecuador,70,2,0,0,0,0,1,0,3
+518,United States of America,Ecuador,73,3,1,0,0,0,1,0,4
+527,United States of America,Ecuador,73,2,0,0,0,0,1,0,4
+531,United States of America,Ecuador,76,2,0,0,0,0,1,0,4
+558,United States of America,Ecuador,73,3,1,0,0,0,1,0,4
+559,United States of America,Ecuador,85,3,1,0,0,0,1,0,3
+580,United States of America,Ecuador,70,2,0,0,0,0,1,0,4
+607,United States of America,Ecuador,70,3,1,0,0,0,1,0,3
+620,United States of America,Ecuador,71,4,1,1,0,0,1,0,3
+635,United States of America,Ecuador,70,2,0,0,0,0,1,0,3
+640,United States of America,Ecuador,76,2,0,0,0,0,1,0,4
+641,United States of America,Ecuador,70,2,0,0,0,0,1,0,3
+711,United States of America,Ecuador,70,3,1,0,0,0,1,0,4
+762,United States of America,Ecuador,80,3,1,0,0,0,1,0,4
+906,United States of America,Ecuador,75,3,1,0,0,0,1,0,3
+951,United States of America,Ecuador,65,5,1,1,1,0,1,0,4
+967,United States of America,Ecuador,65,5,1,1,1,0,1,0,4
+999,United States of America,Ecuador,67,3,1,0,0,0,1,0,4
+1004,United States of America,Ecuador,70,3,1,0,0,0,1,0,4
+1005,United States of America,Ecuador,77,3,1,0,0,0,1,0,4
+1010,United States of America,Ecuador,73,2,0,0,0,0,0,1,3
+1018,United States of America,Ecuador,73,2,0,0,0,0,0,1,2
+1094,United States of America,Ecuador,78,4,1,0,1,0,1,0,4
+1097,United States of America,Ecuador,70,4,1,0,1,0,1,0,4
+1150,United States of America,Ecuador,70,4,1,0,1,0,1,0,4
+1156,United States of America,Ecuador,72.5,5,1,1,0,1,1,0,2
+1162,United States of America,Ecuador,74,5,1,1,1,0,1,0,4
+1280,United States of America,Ecuador,74,2,0,0,0,0,1,0,2
+1300,United States of America,Ecuador,70,3,1,0,0,0,1,0,4
+1417,United States of America,Ecuador,70,4,1,1,0,0,1,0,4
+1418,United States of America,Ecuador,70,4,1,1,0,0,1,0,2
+1426,United States of America,Ecuador,77,3,1,0,0,0,1,0,3
+1427,United States of America,Ecuador,67,3,1,0,0,0,1,0,3
+1487,United States of America,Ecuador,75,3,1,0,0,0,1,0,4
+1506,United States of America,Ecuador,70,2,0,0,0,0,1,0,3
+1632,United States of America,Ecuador,73,2,0,0,0,0,1,0,4
+1634,United States of America,Ecuador,73,2,0,0,0,0,1,0,3
+1720,United States of America,Ecuador,72,3,1,0,0,0,1,0,4
+1731,United States of America,Ecuador,75,2,0,0,0,0,1,0,3
+1734,United States of America,Ecuador,85,2,0,0,0,0,1,0,4
+1736,United States of America,Ecuador,75,2,0,0,0,0,1,0,4
+1755,United States of America,Ecuador,75,2,0,0,0,0,1,0,4
+1816,United States of America,Ecuador,75,2,0,0,0,0,1,0,3
+1862,United States of America,Ecuador,68,3,1,0,0,0,1,0,3
+1868,United States of America,Ecuador,70,2,0,0,0,0,1,0,4
+1950,United States of America,Ecuador,70,3,1,0,0,0,1,0,4
+1955,United States of America,Ecuador,70,4,1,1,0,0,0,1,3
+1962,United States of America,Ecuador,84,3,1,0,0,0,1,0,4
+1963,United States of America,Ecuador,70,3,1,0,0,0,1,0,4
+2028,United States of America,Ecuador,70,4,1,1,0,0,1,0,3
+2029,United States of America,Ecuador,70,3,1,0,0,0,1,0,3
+2042,United States of America,Ecuador,77,2,0,0,0,0,1,0,3
+2047,United States of America,Ecuador,70,2,0,0,0,0,1,0,3
+2060,United States of America,Ecuador,70,2,0,0,0,0,1,0,4
+2084,United States of America,Ecuador,75,2,0,0,0,0,1,0,4
+2132,United States of America,Ecuador,75,3,1,0,0,0,1,0,4
+2136,United States of America,Ecuador,65,3,1,0,0,0,1,0,3
+2172,United States of America,Ecuador,70,2,0,0,0,0,1,0,2
+2174,United States of America,Ecuador,70,2,0,0,0,0,1,0,3
+2177,El Salvador,El Salvador,70,4,1,0,1,0,1,0,3
+2178,El Salvador,El Salvador,75,4,1,0,1,0,1,0,3
+2179,El Salvador,El Salvador,65,4,1,0,1,0,1,0,3
+1380,Honduras,El Salvador,70,3,1,0,0,0,1,0,3
+1381,Honduras,El Salvador,80,3,1,0,0,0,1,0,3
+1469,Lithuania,El Salvador,70,3,1,0,0,0,1,0,3
+554,Australia,Fiji,67,3,1,0,0,0,1,0,3
+1930,Canada,Fiji,70,3,1,0,0,0,1,0,3
+32,Fiji,Fiji,88,3,1,0,0,0,1,0,4
+33,Fiji,Fiji,72,3,1,0,0,0,1,0,4
+34,Fiji,Fiji,80,3,1,0,0,0,1,0,3
+35,Fiji,Fiji,60,3,1,0,0,0,1,0,3
+1584,Spain,Fiji,76,2,0,0,0,0,1,0,3
+132,United States of America,Fiji,70,2,0,0,0,0,1,0,3
+648,United States of America,Fiji,80,2,0,0,0,0,1,0,4
+1166,United States of America,Fiji,68,3,1,0,0,0,1,0,3
+1495,United States of America,Fiji,74,3,1,0,0,0,1,0,3
+1610,United States of America,Fiji,75,3,1,0,0,0,0,1,3
+1635,United States of America,Fiji,73,2,0,0,0,0,1,0,2
+1741,United States of America,Fiji,70,3,1,0,0,0,1,0,2
+1811,United States of America,Fiji,70,2,0,0,0,0,1,0,3
+295,France,Gabon,75,3,1,0,0,0,1,0,3
+825,Belgium,Ghana,60,4,1,0,1,0,1,0,4
+1884,Canada,Ghana,70,3,1,0,0,0,1,0,4
+1177,France,Ghana,68,4,1,0,1,0,1,0,3
+1670,France,Ghana,75,4,1,0,1,0,1,0,3
+2113,France,Ghana,68,5,1,1,1,0,1,0,4
+547,Germany,Ghana,85,3,1,0,0,0,1,0,4
+550,Germany,Ghana,75,3,1,0,0,0,1,0,4
+918,Germany,Ghana,70,4,1,0,1,0,1,0,4
+1533,Ghana,Ghana,80,4,1,0,1,0,1,0,3
+946,Italy,Ghana,64,4,1,0,1,0,1,0,3
+1291,Poland,Ghana,70,2,0,0,0,0,1,0,4
+76,Spain,Ghana,70,2,0,0,0,0,1,0,3
+77,Spain,Ghana,85,2,0,0,0,0,1,0,3
+243,United States of America,Ghana,70,2,0,0,0,0,1,0,3
+253,United States of America,Ghana,72,3,1,0,0,0,1,0,4
+306,United States of America,Ghana,75,5,1,1,1,0,1,0,4
+614,United States of America,Ghana,70,4,1,0,1,0,1,0,2
+621,United States of America,Ghana,60,4,1,1,0,0,1,0,3
+852,United States of America,Ghana,74,3,1,0,0,0,1,0,3
+1092,United States of America,Ghana,71,5,1,1,1,0,1,0,2
+1218,United States of America,Ghana,70,3,1,0,0,0,1,0,4
+1248,United States of America,Ghana,75,3,1,0,0,0,1,0,3
+1471,United States of America,Ghana,70,3,1,0,0,0,1,0,4
+1497,United States of America,Ghana,75,4,0,1,1,0,0,1,3
+1502,United States of America,Ghana,70,2,0,0,0,0,1,0,4
+1528,United States of America,Ghana,72,3,1,0,0,0,1,0,3
+1798,United States of America,Ghana,65,5,1,1,1,0,1,0,4
+1844,United States of America,Ghana,70,4,1,1,0,0,1,0,3
+1864,United States of America,Ghana,67,3,1,0,0,0,1,0,2
+2020,United States of America,Ghana,70,5,1,1,1,0,1,0,2
+2054,United States of America,Ghana,84,4,1,1,0,0,1,0,3
+2163,United States of America,Ghana,75,3,1,0,0,0,1,0,4
+1894,Canada,Grenada,70,3,1,0,0,0,1,0,3
+1179,France,Grenada,68,4,1,0,1,0,1,0,4
+540,Germany,Grenada,72,3,1,0,0,0,1,0,3
+941,Grenada,Grenada,71,5,1,1,1,0,1,0,2
+942,Grenada,Grenada,60,5,1,1,1,0,1,0,3
+943,Grenada,Grenada,82,5,1,1,1,0,1,0,3
+90,Italy,Grenada,70,4,1,1,0,0,1,0,4
+1463,Lithuania,Grenada,71,4,1,1,0,0,1,0,2
+386,Spain,Grenada,71,4,1,0,1,0,1,0,3
+499,Spain,Grenada,71,4,1,0,1,0,1,0,2
+776,Switzerland,Grenada,58,5,1,1,1,0,1,0,4
+569,United Kingdom,Grenada,70,3,1,0,0,0,1,0,2
+687,United Kingdom,Grenada,75,3,1,0,0,0,0,1,3
+1684,United Kingdom,Grenada,70,3,1,0,0,0,1,0,4
+1806,United Kingdom,Grenada,70,2,0,0,0,0,1,0,3
+1160,United States of America,Grenada,75,5,1,1,1,0,1,0,3
+1802,United States of America,Grenada,68,5,1,1,1,0,1,0,4
+1858,Australia,Guatemala,70,3,1,0,0,0,1,0,3
+342,Canada,Guatemala,70,4,1,0,1,0,1,0,4
+343,Canada,Guatemala,70,4,1,0,1,0,1,0,3
+631,Canada,Guatemala,72,2,0,0,0,0,1,0,3
+1364,Canada,Guatemala,70,3,1,0,0,0,1,0,2
+1579,Canada,Guatemala,70,2,0,0,0,0,1,0,3
+1834,Canada,Guatemala,73,2,0,0,0,0,0,1,3
+1838,Canada,Guatemala,73,2,0,0,0,0,1,0,3
+1899,Canada,Guatemala,70,3,1,0,0,0,1,0,4
+2088,Canada,Guatemala,75,2,0,0,0,0,1,0,3
+419,Costa Rica,Guatemala,72,3,1,0,0,0,1,0,4
+879,Denmark,Guatemala,70,3,1,0,0,0,1,0,4
+740,France,Guatemala,70,2,0,0,0,0,1,0,4
+1172,France,Guatemala,70,2,0,0,0,0,1,0,4
+1400,France,Guatemala,70,4,1,1,0,0,1,0,4
+925,Germany,Guatemala,72,3,1,0,0,0,1,0,3
+592,Guatemala,Guatemala,60,4,1,1,0,0,1,0,3
+593,Guatemala,Guatemala,75,4,1,1,0,0,1,0,3
+594,Guatemala,Guatemala,60,4,1,1,0,0,1,0,4
+595,Guatemala,Guatemala,70,2,0,0,0,0,1,0,4
+596,Guatemala,Guatemala,70,2,0,0,0,0,1,0,4
+598,Guatemala,Guatemala,70,2,0,0,0,0,1,0,3
+600,Guatemala,Guatemala,82,4,1,1,0,0,1,0,3
+1713,Guatemala,Guatemala,70,5,1,1,1,0,1,0,3
+331,United Kingdom,Guatemala,70,3,1,0,0,0,1,0,3
+688,United Kingdom,Guatemala,72,3,1,0,0,0,0,1,4
+706,United Kingdom,Guatemala,70,4,1,0,1,0,1,0,4
+708,United Kingdom,Guatemala,80,4,1,0,1,0,1,0,3
+119,United States of America,Guatemala,70,2,0,0,0,0,1,0,3
+128,United States of America,Guatemala,70,2,0,0,0,0,1,0,4
+256,United States of America,Guatemala,70,2,0,0,0,0,1,0,3
+265,United States of America,Guatemala,70,3,1,0,0,0,1,0,4
+269,United States of America,Guatemala,75,2,0,0,0,0,1,0,3
+318,United States of America,Guatemala,70,2,0,0,0,0,1,0,4
+494,United States of America,Guatemala,76,2,0,0,0,0,1,0,3
+646,United States of America,Guatemala,70,2,0,0,0,0,1,0,4
+734,United States of America,Guatemala,70,3,1,0,0,0,1,0,4
+764,United States of America,Guatemala,80,3,1,0,0,0,1,0,4
+792,United States of America,Guatemala,75,2,0,0,0,0,1,0,3
+838,United States of America,Guatemala,73,2,0,0,0,0,1,0,4
+867,United States of America,Guatemala,70,3,1,0,0,0,1,0,4
+868,United States of America,Guatemala,70,3,1,0,0,0,1,0,4
+869,United States of America,Guatemala,70,3,1,0,0,0,1,0,4
+932,United States of America,Guatemala,77,3,1,0,0,0,1,0,3
+1168,United States of America,Guatemala,70,2,0,0,0,0,1,0,3
+1350,United States of America,Guatemala,76,2,0,0,0,0,1,0,3
+1594,United States of America,Guatemala,70,2,0,0,0,0,1,0,4
+1597,United States of America,Guatemala,75,3,1,0,0,0,1,0,3
+1813,United States of America,Guatemala,70,3,1,0,0,0,1,0,3
+1957,United States of America,Guatemala,70,4,1,1,0,0,0,1,3
+2045,United States of America,Guatemala,70,3,1,0,0,0,1,0,4
+2127,United States of America,Guatemala,70,2,0,0,0,0,1,0,3
+2141,United States of America,Guatemala,77,2,0,0,0,0,1,0,3
+1861,Australia,Haiti,70,3,1,0,0,0,1,0,4
+1331,Austria,Haiti,82,3,1,0,0,0,1,0,3
+1580,Canada,Haiti,70,2,0,0,0,0,1,0,4
+1835,Canada,Haiti,73,2,0,0,0,0,1,0,3
+1902,Canada,Haiti,70,3,1,0,0,0,1,0,3
+1933,Canada,Haiti,70,3,1,0,0,0,1,0,3
+286,France,Haiti,75,3,1,0,0,0,1,0,4
+353,France,Haiti,65,5,1,1,1,0,1,0,4
+739,France,Haiti,70,2,0,0,0,0,1,0,4
+1774,Italy,Haiti,75,3,1,0,0,0,1,0,3
+1428,Japan,Haiti,70,2,0,0,0,0,1,0,4
+1567,Japan,Haiti,70,5,1,1,1,0,1,0,4
+802,Singapore,Haiti,68,2,0,0,0,0,1,0,4
+159,United Kingdom,Haiti,72,3,1,0,0,0,1,0,4
+2071,United Kingdom,Haiti,70,3,1,0,0,0,1,0,3
+135,United States of America,Haiti,70,2,0,0,0,0,1,0,4
+255,United States of America,Haiti,70,2,0,0,0,0,1,0,3
+969,United States of America,Haiti,65,5,1,1,1,0,1,0,3
+1151,United States of America,Haiti,70,4,1,0,1,0,1,0,3
+1316,United States of America,Haiti,75,2,0,0,0,0,1,0,3
+1711,United States of America,Haiti,70,3,1,0,0,0,1,0,4
+1712,United States of America,Haiti,70,3,1,0,0,0,1,0,3
+2051,United States of America,Haiti,72,3,1,0,0,0,1,0,3
+2146,United States of America,Haiti,70,5,1,1,1,0,1,0,2
+783,Canada,Honduras,70,3,1,0,0,0,1,0,3
+2079,Canada,Honduras,70,2,0,0,0,0,1,0,3
+895,Denmark,Honduras,70,3,1,0,0,0,1,0,3
+1376,Honduras,Honduras,70,3,1,0,0,0,1,0,4
+1378,Honduras,Honduras,80,3,1,0,0,0,1,0,3
+1772,Italy,Honduras,72,3,1,0,0,0,0,1,3
+698,United Kingdom,Honduras,72,3,1,0,0,0,1,0,4
+1044,United Kingdom,Honduras,72,4,1,0,1,0,1,0,3
+1202,United Kingdom,Honduras,70,3,1,0,0,0,1,0,3
+1686,United Kingdom,Honduras,80,3,1,0,0,0,1,0,3
+129,United States of America,Honduras,70,2,0,0,0,0,1,0,4
+168,United States of America,Honduras,70,2,0,0,0,0,1,0,4
+374,United States of America,Honduras,70,4,1,0,1,0,1,0,4
+441,United States of America,Honduras,72,3,1,0,0,0,1,0,4
+560,United States of America,Honduras,70,2,0,0,0,0,1,0,4
+586,United States of America,Honduras,70,2,0,0,0,0,1,0,3
+743,United States of America,Honduras,75,2,0,0,0,0,1,0,3
+1081,United States of America,Honduras,77,3,1,0,0,0,1,0,3
+1216,United States of America,Honduras,70,2,0,0,0,0,1,0,4
+1303,United States of America,Honduras,78,3,1,0,0,0,1,0,4
+1631,United States of America,Honduras,80,4,0,1,1,0,1,0,2
+1763,United States of America,Honduras,75,2,0,0,0,0,1,0,4
+1809,United States of America,Honduras,70,2,0,0,0,0,1,0,3
+2205,Austria,India,65,4,1,0,0,1,0,1,4
+2206,Austria,India,62,4,1,0,0,1,0,1,3
+492,Belgium,India,70,3,1,0,0,0,1,0,3
+1414,Belgium,India,70,3,1,0,0,0,1,0,3
+1420,Belgium,India,74,3,1,0,0,0,1,0,3
+1078,India,India,61,4,1,0,1,0,1,0,2
+1866,India,India,70,3,1,0,0,0,1,0,3
+793,Norway,India,68,3,1,0,0,0,1,0,4
+216,Singapore,India,72,4,1,0,1,0,1,0,3
+1960,Switzerland,India,72,4,1,1,0,0,1,0,3
+989,United Kingdom,India,70,3,1,0,0,0,1,0,3
+136,United States of America,India,70,2,0,0,0,0,1,0,4
+142,United States of America,India,70,3,1,0,0,0,1,0,3
+143,United States of America,India,70,3,1,0,0,0,1,0,3
+496,United States of America,India,63,3,1,0,0,0,1,0,2
+585,United States of America,India,70,2,0,0,0,0,1,0,4
+840,United States of America,India,71,3,1,0,0,0,1,0,3
+1103,United States of America,India,66,4,1,0,1,0,1,0,3
+1629,United States of America,India,73,3,1,0,0,0,1,0,4
+1881,United States of America,India,70,3,1,0,0,0,1,0,3
+218,Belgium,Indonesia,72,3,1,0,0,0,1,0,4
+1614,Belgium,Indonesia,72,5,1,1,1,0,1,0,3
+1910,Canada,Indonesia,70,3,1,0,0,0,1,0,3
+1673,France,Indonesia,75,4,1,0,1,0,1,0,3
+668,Italy,Indonesia,70,2,0,0,0,0,1,0,4
+995,Netherlands,Indonesia,71,4,1,0,1,0,1,0,2
+1865,Netherlands,Indonesia,66,3,1,0,0,0,0,1,3
+805,Singapore,Indonesia,70,2,0,0,0,0,1,0,3
+45,Switzerland,Indonesia,75,4,1,0,1,0,1,0,4
+225,Switzerland,Indonesia,64,3,1,0,0,0,1,0,4
+1240,Taiwan,Indonesia,70,2,0,0,0,0,1,0,3
+152,United Kingdom,Indonesia,72,3,1,0,0,0,1,0,3
+156,United Kingdom,Indonesia,72,3,1,0,0,0,1,0,4
+2158,United Kingdom,Indonesia,69,3,1,0,0,0,1,0,4
+70,United States of America,Indonesia,70,4,1,1,0,0,1,0,3
+249,United States of America,Indonesia,75,2,0,0,0,0,1,0,3
+252,United States of America,Indonesia,65,2,0,0,0,0,1,0,3
+1402,United States of America,Indonesia,70,4,1,0,0,1,0,1,2
+1447,United States of America,Indonesia,70,2,0,0,0,0,1,0,3
+1906,Canada,Jamaica,70,3,1,0,0,0,1,0,4
+293,France,Jamaica,75,3,1,0,0,0,1,0,3
+1651,France,Jamaica,75,4,1,0,1,0,1,0,4
+541,Germany,Jamaica,72,3,1,0,0,0,1,0,3
+94,Italy,Jamaica,70,4,1,1,0,0,1,0,3
+767,Portugal,Jamaica,76,2,0,0,0,0,1,0,3
+155,United Kingdom,Jamaica,72,3,1,0,0,0,1,0,4
+261,United Kingdom,Jamaica,70,4,1,0,1,0,1,0,3
+1688,United Kingdom,Jamaica,75,2,0,0,0,0,1,0,4
+324,United States of America,Jamaica,70,4,1,1,0,0,1,0,3
+842,United States of America,Jamaica,70,3,1,0,0,0,1,0,3
+843,United States of America,Jamaica,70,3,1,0,0,0,1,0,3
+844,United States of America,Jamaica,80,3,1,0,0,0,1,0,3
+847,United States of America,Jamaica,70,3,1,0,0,0,1,0,4
+848,United States of America,Jamaica,70,3,1,0,0,0,1,0,3
+968,United States of America,Jamaica,65,5,1,1,1,0,1,0,3
+1099,United States of America,Jamaica,67,4,1,0,1,0,1,0,3
+1219,United States of America,Jamaica,70,3,1,0,0,0,1,0,3
+1510,United States of America,Jamaica,70,5,1,1,1,0,1,0,2
+1751,United States of America,Jamaica,70,2,0,0,0,0,1,0,3
+1757,United States of America,Jamaica,75,2,0,0,0,0,1,0,4
+1792,United States of America,Jamaica,70,5,1,1,1,0,1,0,2
+1819,United States of America,Jamaica,72,2,0,0,0,0,1,0,3
+581,United States of America,Liberia,70,2,0,0,0,0,1,0,3
+1214,United States of America,Liberia,70,2,0,0,0,0,1,0,3
+1282,United States of America,Liberia,72,3,1,0,0,0,1,0,3
+175,Australia,Madagascar,70,2,0,0,0,0,1,0,3
+327,Australia,Madagascar,72,3,1,0,0,0,1,0,3
+1351,Australia,Madagascar,68,3,1,0,0,0,1,0,4
+1849,Australia,Madagascar,70,3,1,0,0,0,1,0,4
+1851,Australia,Madagascar,65,3,1,0,0,0,1,0,3
+1947,Australia,Madagascar,70,3,1,0,0,0,1,0,4
+2188,Austria,Madagascar,70,3,1,0,0,0,1,0,4
+219,Belgium,Madagascar,72,3,1,0,0,0,1,0,4
+826,Belgium,Madagascar,65,4,1,0,1,0,1,0,4
+1616,Belgium,Madagascar,72,5,1,1,1,0,1,0,4
+1626,Belgium,Madagascar,76,4,1,0,1,0,1,0,3
+83,Canada,Madagascar,66,2,0,0,0,0,1,0,3
+718,Canada,Madagascar,70,3,1,0,0,0,1,0,4
+1569,Canada,Madagascar,78,2,0,0,0,0,1,0,4
+1831,Canada,Madagascar,67,3,1,0,0,0,1,0,4
+1832,Canada,Madagascar,73,3,1,0,0,0,1,0,4
+1836,Canada,Madagascar,100,1,0,0,0,0,0,0,3
+1882,Canada,Madagascar,70,3,1,0,0,0,1,0,4
+1926,Canada,Madagascar,70,3,1,0,0,0,1,0,4
+1931,Canada,Madagascar,70,3,1,0,0,0,1,0,4
+1936,Canada,Madagascar,70,2,0,0,0,0,1,0,4
+1104,Czech Republic,Madagascar,63,2,0,0,0,0,1,0,3
+1221,Finland,Madagascar,71,3,1,0,0,0,1,0,4
+1222,Finland,Madagascar,70,2,0,0,0,0,1,0,3
+12,France,Madagascar,70,4,1,0,1,0,1,0,3
+48,France,Madagascar,75,5,1,1,0,1,1,0,3
+108,France,Madagascar,75,3,1,0,0,0,1,0,3
+278,France,Madagascar,75,3,1,0,0,0,1,0,4
+287,France,Madagascar,75,3,1,0,0,0,1,0,4
+741,France,Madagascar,70,2,0,0,0,0,1,0,4
+1195,France,Madagascar,75,4,1,0,1,0,1,0,3
+1390,France,Madagascar,65,4,1,1,0,0,1,0,4
+1660,France,Madagascar,100,2,1,0,0,0,0,0,3
+1675,France,Madagascar,75,4,1,0,1,0,1,0,3
+2100,France,Madagascar,64,5,1,1,1,0,1,0,4
+2104,France,Madagascar,64,5,1,1,1,0,1,0,4
+533,Germany,Madagascar,72,3,1,0,0,0,1,0,3
+548,Germany,Madagascar,70,3,1,0,0,0,1,0,4
+921,Germany,Madagascar,75,4,1,0,1,0,1,0,4
+922,Germany,Madagascar,65,4,1,0,1,0,1,0,3
+597,Guatemala,Madagascar,70,2,0,0,0,0,1,0,4
+1769,Hungary,Madagascar,72,3,1,0,0,0,1,0,2
+1987,Hungary,Madagascar,70,3,1,0,0,0,1,0,3
+1988,Hungary,Madagascar,70,3,1,0,0,0,1,0,4
+1989,Hungary,Madagascar,70,3,1,0,0,0,1,0,4
+1997,Hungary,Madagascar,70,3,1,0,0,0,1,0,3
+1534,Iceland,Madagascar,66,3,1,0,0,0,1,0,4
+1036,Israel,Madagascar,70,4,1,0,1,0,1,0,4
+97,Italy,Madagascar,70,4,1,1,0,0,1,0,3
+669,Italy,Madagascar,70,2,0,0,0,0,1,0,4
+670,Italy,Madagascar,70,2,0,0,0,0,1,0,4
+949,Italy,Madagascar,70,4,1,0,1,0,1,0,3
+390,Japan,Madagascar,70,2,0,0,0,0,1,0,3
+939,Japan,Madagascar,70,2,0,0,0,0,1,0,4
+1423,Japan,Madagascar,70,2,0,0,0,0,1,0,4
+1250,Madagascar,Madagascar,63,5,1,1,1,0,1,0,4
+1251,Madagascar,Madagascar,70,5,1,1,1,0,1,0,4
+1252,Madagascar,Madagascar,67,5,1,1,1,0,1,0,4
+1253,Madagascar,Madagascar,75,5,1,1,1,0,1,0,4
+1270,Madagascar,Madagascar,73,4,1,0,1,0,1,0,4
+1271,Madagascar,Madagascar,75,4,1,0,1,0,1,0,3
+1374,Madagascar,Madagascar,80,4,1,0,1,0,1,0,2
+1375,Madagascar,Madagascar,72,4,1,0,1,0,1,0,2
+1746,Madagascar,Madagascar,75,5,1,1,1,0,1,0,3
+1747,Madagascar,Madagascar,68,4,1,0,1,0,1,0,3
+2121,Madagascar,Madagascar,72,3,1,0,0,0,1,0,3
+2122,Madagascar,Madagascar,76,4,1,1,0,0,1,0,3
+2123,Madagascar,Madagascar,80,4,1,1,0,0,1,0,3
+1139,Netherlands,Madagascar,70,2,0,0,0,0,1,0,3
+1022,New Zealand,Madagascar,70,3,1,0,0,0,1,0,3
+795,Norway,Madagascar,70,3,1,0,0,0,1,0,3
+486,Scotland,Madagascar,72,3,1,0,0,0,1,0,3
+801,Singapore,Madagascar,70,2,0,0,0,0,1,0,3
+807,Singapore,Madagascar,70,2,0,0,0,0,1,0,4
+617,South Africa,Madagascar,70,3,1,0,0,0,1,0,3
+383,Spain,Madagascar,71,4,1,0,1,0,1,0,4
+503,Spain,Madagascar,71,4,1,0,1,0,1,0,4
+1587,Spain,Madagascar,76,2,0,0,0,0,1,0,3
+1383,Sweden,Madagascar,72,3,1,0,0,0,1,0,4
+43,Switzerland,Madagascar,75,4,1,0,1,0,1,0,3
+231,Switzerland,Madagascar,64,3,1,0,0,0,1,0,3
+772,Switzerland,Madagascar,64,5,1,1,1,0,1,0,3
+914,Taiwan,Madagascar,70,2,0,0,0,0,1,0,3
+1430,United Arab Emirates,Madagascar,72,2,0,0,0,0,1,0,3
+150,United Kingdom,Madagascar,80,3,1,0,0,0,1,0,3
+470,United Kingdom,Madagascar,74,2,0,0,0,0,1,0,3
+685,United Kingdom,Madagascar,77,3,1,0,0,0,1,0,3
+1053,United Kingdom,Madagascar,66,4,0,1,1,0,1,0,4
+1058,United Kingdom,Madagascar,72,4,1,0,1,0,1,0,3
+1607,United Kingdom,Madagascar,64,2,0,0,0,0,0,1,3
+1608,United Kingdom,Madagascar,73,2,0,0,0,0,0,1,2
+1680,United Kingdom,Madagascar,72,3,1,0,0,0,1,0,3
+1685,United Kingdom,Madagascar,74,3,1,0,0,0,1,0,4
+2160,United Kingdom,Madagascar,71,3,1,0,0,0,1,0,3
+0,United States of America,Madagascar,76,3,1,0,0,0,1,0,4
+68,United States of America,Madagascar,70,4,1,1,0,0,1,0,4
+137,United States of America,Madagascar,70,3,1,0,0,0,1,0,4
+186,United States of America,Madagascar,70,2,0,0,0,0,1,0,4
+242,United States of America,Madagascar,71,2,0,0,0,0,1,0,3
+245,United States of America,Madagascar,65,2,0,0,0,0,1,0,4
+246,United States of America,Madagascar,75,2,0,0,0,0,1,0,3
+250,United States of America,Madagascar,70,2,0,0,0,0,1,0,3
+264,United States of America,Madagascar,70,3,1,0,0,0,1,0,4
+266,United States of America,Madagascar,82,2,0,0,0,0,1,0,4
+321,United States of America,Madagascar,60,3,1,0,0,0,1,0,3
+323,United States of America,Madagascar,80,3,1,0,0,0,1,0,3
+471,United States of America,Madagascar,70,2,0,0,0,0,1,0,4
+530,United States of America,Madagascar,75,4,1,1,0,0,1,0,3
+590,United States of America,Madagascar,70,2,0,0,0,0,1,0,3
+608,United States of America,Madagascar,70,3,1,0,0,0,1,0,3
+624,United States of America,Madagascar,66,4,1,1,0,0,1,0,2
+637,United States of America,Madagascar,80,2,0,0,0,0,1,0,3
+650,United States of America,Madagascar,72,2,0,0,0,0,1,0,4
+851,United States of America,Madagascar,74,3,1,0,0,0,1,0,3
+853,United States of America,Madagascar,74,3,1,0,0,0,1,0,3
+854,United States of America,Madagascar,74,3,1,0,0,0,1,0,4
+876,United States of America,Madagascar,70,2,0,0,0,0,1,0,4
+911,United States of America,Madagascar,74,2,0,0,0,0,1,0,4
+950,United States of America,Madagascar,65,5,1,1,1,0,1,0,4
+1012,United States of America,Madagascar,74,2,0,0,0,0,0,1,3
+1017,United States of America,Madagascar,74,2,0,0,0,0,0,1,3
+1085,United States of America,Madagascar,72,2,0,0,0,0,1,0,4
+1098,United States of America,Madagascar,68,5,1,1,1,0,1,0,4
+1142,United States of America,Madagascar,72,3,1,0,0,0,1,0,3
+1154,United States of America,Madagascar,72.5,5,1,1,0,1,1,0,3
+1157,United States of America,Madagascar,64,5,1,1,1,0,1,0,4
+1359,United States of America,Madagascar,65,3,1,0,0,0,1,0,3
+1460,United States of America,Madagascar,68,2,0,0,0,0,1,0,3
+1473,United States of America,Madagascar,73.5,2,0,0,0,0,1,0,2
+1482,United States of America,Madagascar,72,2,0,0,0,0,1,0,3
+1504,United States of America,Madagascar,70,2,0,0,0,0,1,0,4
+1601,United States of America,Madagascar,70,3,1,0,0,0,1,0,4
+1602,United States of America,Madagascar,75,3,1,0,0,0,1,0,4
+1603,United States of America,Madagascar,67,3,1,0,0,0,1,0,4
+1633,United States of America,Madagascar,73,2,0,0,0,0,1,0,3
+1708,United States of America,Madagascar,75,3,1,0,0,0,1,0,3
+1729,United States of America,Madagascar,75,2,0,0,0,0,1,0,4
+1748,United States of America,Madagascar,70,2,0,0,0,0,1,0,3
+1758,United States of America,Madagascar,70,2,0,0,0,0,1,0,4
+1801,United States of America,Madagascar,65,5,1,1,1,0,1,0,4
+1863,United States of America,Madagascar,68,3,1,0,0,0,1,0,3
+1867,United States of America,Madagascar,72,2,0,0,0,0,1,0,3
+1877,United States of America,Madagascar,70,2,0,0,0,0,1,0,3
+1959,United States of America,Madagascar,70,4,1,1,0,0,0,1,3
+1969,United States of America,Madagascar,67,2,0,0,0,0,1,0,3
+2019,United States of America,Madagascar,70,5,1,1,1,0,1,0,3
+2034,United States of America,Madagascar,70,3,1,0,0,0,1,0,3
+2036,United States of America,Madagascar,70,4,1,1,0,0,1,0,3
+2040,United States of America,Madagascar,67,2,0,0,0,0,1,0,4
+2044,United States of America,Madagascar,70,2,0,0,0,0,1,0,4
+2053,United States of America,Madagascar,65,3,1,0,0,0,1,0,4
+2083,United States of America,Madagascar,75,2,0,0,0,0,1,0,4
+2094,United States of America,Madagascar,72,2,0,0,0,0,1,0,3
+2140,United States of America,Madagascar,77,2,0,0,0,0,1,0,3
+2170,United States of America,Madagascar,70,3,1,0,0,0,1,0,3
+2180,United States of America,Madagascar,70,2,0,0,0,0,1,0,3
+2184,United States of America,Madagascar,70,3,1,0,0,0,1,0,3
+463,Korea,Malaysia,70,2,0,0,0,0,1,0,4
+271,Malaysia,Malaysia,74,2,0,0,0,0,1,0,3
+272,Malaysia,Malaysia,72,2,0,0,0,0,1,0,3
+273,Malaysia,Malaysia,68,2,0,0,0,0,1,0,2
+217,Singapore,Malaysia,72,4,1,0,1,0,1,0,3
+198,United Kingdom,Malaysia,72,3,1,0,0,0,1,0,3
+199,United Kingdom,Malaysia,73,3,1,0,0,0,1,0,3
+512,Martinique,Martinique,42,4,0,1,1,0,1,0,3
+1612,Belgium,Mexico,72,5,1,1,1,0,1,0,4
+1620,Belgium,Mexico,72,5,1,1,1,0,1,0,3
+493,Canada,Mexico,70,4,1,1,0,0,1,0,2
+510,Canada,Mexico,70,4,1,1,0,0,1,0,3
+513,Canada,Mexico,75,3,1,0,0,0,1,0,3
+782,Canada,Mexico,70,3,1,0,0,0,1,0,3
+1983,Canada,Mexico,74,3,1,0,0,0,1,0,3
+51,France,Mexico,75,6,1,1,1,1,1,0,4
+111,France,Mexico,72,3,1,0,0,0,1,0,2
+283,France,Mexico,75,3,1,0,0,0,1,0,3
+284,France,Mexico,75,3,1,0,0,0,1,0,3
+299,France,Mexico,75,3,1,0,0,0,1,0,4
+349,France,Mexico,66,5,1,1,1,0,1,0,3
+1398,France,Mexico,66,4,1,1,0,0,1,0,4
+534,Germany,Mexico,72,3,1,0,0,0,1,0,3
+42,Mexico,Mexico,70,3,1,0,0,0,1,0,3
+1131,Mexico,Mexico,72,5,1,1,1,0,1,0,2
+1184,Mexico,Mexico,70,2,0,0,0,0,1,0,4
+1185,Mexico,Mexico,70,2,0,0,0,0,1,0,4
+1186,Mexico,Mexico,70,2,0,0,0,0,1,0,3
+1453,Mexico,Mexico,70,3,1,0,0,0,1,0,3
+1705,Mexico,Mexico,74,3,1,0,0,0,1,0,3
+1706,Mexico,Mexico,70,3,1,0,0,0,1,0,3
+1134,Netherlands,Mexico,70,2,0,0,0,0,1,0,3
+1137,Netherlands,Mexico,70,2,0,0,0,0,1,0,4
+808,Singapore,Mexico,70,2,0,0,0,0,1,0,3
+379,Spain,Mexico,70,4,1,0,1,0,1,0,4
+380,Spain,Mexico,70,4,1,0,1,0,1,0,4
+504,Spain,Mexico,71,4,1,0,1,0,1,0,3
+2013,Switzerland,Mexico,70,3,1,0,0,0,1,0,3
+31,United States of America,Mexico,74,2,0,0,0,0,1,0,3
+165,United States of America,Mexico,75,2,0,0,0,0,1,0,2
+187,United States of America,Mexico,70,2,0,0,0,0,1,0,4
+445,United States of America,Mexico,70,3,1,0,0,0,1,0,4
+505,United States of America,Mexico,65,2,0,0,0,0,1,0,2
+506,United States of America,Mexico,75,2,0,0,0,0,1,0,2
+934,United States of America,Mexico,77,3,1,0,0,0,1,0,3
+1254,United States of America,Mexico,72,4,1,1,0,0,1,0,3
+1263,United States of America,Mexico,70,4,1,1,0,0,1,0,3
+1310,United States of America,Mexico,72,3,1,0,0,0,1,0,3
+1452,United States of America,Mexico,70,3,1,0,0,0,1,0,3
+1737,United States of America,Mexico,75,3,1,0,0,0,1,0,4
+2002,United States of America,Mexico,70,4,1,1,0,0,1,0,2
+2016,United States of America,Mexico,75,3,1,0,0,0,1,0,3
+2030,United States of America,Mexico,70,3,1,0,0,0,1,0,3
+13,France,Myanmar,70,4,1,0,1,0,1,0,3
+2199,Belgium,Nicaragua,70,3,1,0,0,0,1,0,4
+2200,Belgium,Nicaragua,75,3,1,0,0,0,1,0,3
+2201,Belgium,Nicaragua,72,3,1,0,0,0,1,0,3
+1066,Canada,Nicaragua,70,3,1,0,0,0,1,0,3
+1542,Canada,Nicaragua,72,3,1,0,0,0,1,0,3
+1916,Canada,Nicaragua,70,3,1,0,0,0,1,0,4
+1918,Canada,Nicaragua,70,3,1,0,0,0,1,0,3
+1923,Canada,Nicaragua,70,3,1,0,0,0,1,0,4
+877,Denmark,Nicaragua,70,2,0,0,0,0,1,0,4
+878,Denmark,Nicaragua,70,3,1,0,0,0,1,0,4
+880,Denmark,Nicaragua,70,3,1,0,0,0,1,0,4
+881,Denmark,Nicaragua,70,3,1,0,0,0,1,0,4
+882,Denmark,Nicaragua,70,3,1,0,0,0,1,0,4
+883,Denmark,Nicaragua,70,3,1,0,0,0,1,0,4
+884,Denmark,Nicaragua,68,3,1,0,0,0,1,0,4
+885,Denmark,Nicaragua,70,3,1,0,0,0,1,0,4
+886,Denmark,Nicaragua,70,3,1,0,0,0,1,0,3
+887,Denmark,Nicaragua,70,3,1,0,0,0,1,0,3
+888,Denmark,Nicaragua,60,3,1,0,0,0,1,0,3
+889,Denmark,Nicaragua,70,3,1,0,0,0,1,0,3
+890,Denmark,Nicaragua,70,3,1,0,0,0,1,0,4
+891,Denmark,Nicaragua,70,3,1,0,0,0,1,0,4
+892,Denmark,Nicaragua,70,3,1,0,0,0,1,0,3
+893,Denmark,Nicaragua,70,3,1,0,0,0,1,0,4
+894,Denmark,Nicaragua,70,3,1,0,0,0,1,0,3
+896,Denmark,Nicaragua,70,3,1,0,0,0,1,0,3
+897,Denmark,Nicaragua,70,3,1,0,0,0,1,0,4
+898,Denmark,Nicaragua,70,3,1,0,0,0,1,0,3
+899,Denmark,Nicaragua,70,3,1,0,0,0,1,0,4
+900,Denmark,Nicaragua,85,3,1,0,0,0,1,0,3
+901,Denmark,Nicaragua,60,3,1,0,0,0,1,0,3
+1377,Honduras,Nicaragua,80,3,1,0,0,0,1,0,4
+1379,Honduras,Nicaragua,70,3,1,0,0,0,1,0,3
+466,Hungary,Nicaragua,72,3,1,0,0,0,1,0,2
+1990,Hungary,Nicaragua,70,3,1,0,0,0,1,0,3
+1537,Iceland,Nicaragua,73,3,1,0,0,0,1,0,3
+1773,Italy,Nicaragua,70,3,1,0,0,0,1,0,4
+1466,Lithuania,Nicaragua,70,4,1,0,1,0,1,0,3
+1470,Lithuania,Nicaragua,67,3,1,0,0,0,1,0,3
+53,Netherlands,Nicaragua,70,3,1,0,0,0,1,0,4
+144,Nicaragua,Nicaragua,70,2,0,0,0,0,1,0,4
+145,Nicaragua,Nicaragua,70,2,0,0,0,0,1,0,4
+146,Nicaragua,Nicaragua,70,2,0,0,0,0,1,0,3
+147,Nicaragua,Nicaragua,70,2,0,0,0,0,1,0,3
+1448,Nicaragua,Nicaragua,70,2,0,0,0,0,1,0,3
+1449,Nicaragua,Nicaragua,70,2,0,0,0,0,1,0,3
+1450,Nicaragua,Nicaragua,70,3,1,0,0,0,1,0,3
+1500,Nicaragua,Nicaragua,70,2,0,0,0,0,1,0,3
+1501,Nicaragua,Nicaragua,75,2,0,0,0,0,1,0,3
+1296,Poland,Nicaragua,70,3,1,0,0,0,1,0,4
+1120,Spain,Nicaragua,75,3,1,0,0,0,1,0,3
+2097,Spain,Nicaragua,70,3,1,0,0,0,1,0,4
+2014,Switzerland,Nicaragua,72,3,1,0,0,0,1,0,3
+1238,Taiwan,Nicaragua,78,2,0,0,0,0,1,0,4
+1239,Taiwan,Nicaragua,80,2,0,0,0,0,1,0,3
+1241,Taiwan,Nicaragua,75,2,0,0,0,0,1,0,2
+568,United Kingdom,Nicaragua,70,3,1,0,0,0,1,0,3
+656,United Kingdom,Nicaragua,72,3,1,0,0,0,1,0,4
+701,United Kingdom,Nicaragua,71,3,1,0,0,0,1,0,3
+704,United Kingdom,Nicaragua,76,4,1,0,1,0,1,0,4
+705,United Kingdom,Nicaragua,70,4,1,0,1,0,1,0,4
+1201,United Kingdom,Nicaragua,73,3,1,0,0,0,1,0,4
+1203,United Kingdom,Nicaragua,71,3,1,0,0,0,1,0,3
+62,United States of America,Nicaragua,60,3,1,0,0,0,1,0,3
+112,United States of America,Nicaragua,70,2,0,0,0,0,1,0,4
+124,United States of America,Nicaragua,70,3,1,0,0,0,1,0,4
+234,United States of America,Nicaragua,76,2,0,0,0,0,1,0,2
+258,United States of America,Nicaragua,70,3,1,0,0,0,1,0,3
+313,United States of America,Nicaragua,70,3,1,0,0,0,1,0,4
+432,United States of America,Nicaragua,72,3,1,0,0,0,1,0,3
+480,United States of America,Nicaragua,80,2,0,0,0,0,1,0,3
+836,United States of America,Nicaragua,68,2,0,0,0,0,1,0,3
+933,United States of America,Nicaragua,77,3,1,0,0,0,1,0,3
+970,United States of America,Nicaragua,65,5,1,1,1,0,1,0,3
+1200,United States of America,Nicaragua,80,2,0,0,0,0,1,0,4
+1237,United States of America,Nicaragua,75,2,0,0,0,0,1,0,2
+1301,United States of America,Nicaragua,70,3,1,0,0,0,1,0,4
+1367,United States of America,Nicaragua,70,2,0,0,0,0,1,0,3
+1411,United States of America,Nicaragua,70,3,1,0,0,0,1,0,4
+1454,United States of America,Nicaragua,70,3,1,0,0,0,1,0,4
+1455,United States of America,Nicaragua,80,3,1,0,0,0,1,0,4
+1636,United States of America,Nicaragua,80,2,0,0,0,0,1,0,3
+1637,United States of America,Nicaragua,80,2,0,0,0,0,1,0,3
+1638,United States of America,Nicaragua,80,3,1,0,0,0,1,0,3
+1639,United States of America,Nicaragua,80,3,1,0,0,0,1,0,3
+1640,United States of America,Nicaragua,62,3,1,0,0,0,1,0,2
+1722,United States of America,Nicaragua,72,3,1,0,0,0,1,0,4
+1738,United States of America,Nicaragua,70,2,0,0,0,0,1,0,4
+1843,United States of America,Nicaragua,72,3,1,0,0,0,1,0,3
+1935,United States of America,Nicaragua,70,2,0,0,0,0,1,0,3
+1958,United States of America,Nicaragua,70,4,1,1,0,0,0,1,3
+2092,United States of America,Nicaragua,74,2,0,0,0,0,1,0,3
+707,United Kingdom,Nigeria,70,4,1,0,1,0,1,0,3
+1508,United States of America,Nigeria,70,3,1,0,0,0,1,0,3
+2210,Austria,Panama,72,4,1,0,0,1,0,1,4
+14,France,Panama,70,4,1,0,1,0,1,0,3
+1543,South Africa,Panama,71,3,1,0,0,0,1,0,3
+160,United Kingdom,Panama,72,3,1,0,0,0,1,0,3
+657,United Kingdom,Panama,72,3,1,0,0,0,1,0,3
+696,United Kingdom,Panama,70,3,1,0,0,0,1,0,4
+702,United Kingdom,Panama,72,3,1,0,0,0,1,0,3
+241,United States of America,Panama,75,2,0,0,0,0,1,0,4
+178,Australia,Papua New Guinea,70,2,0,0,0,0,1,0,4
+551,Australia,Papua New Guinea,75,3,1,0,0,0,1,0,4
+557,Australia,Papua New Guinea,70,3,1,0,0,0,1,0,2
+1352,Australia,Papua New Guinea,74,3,1,0,0,0,1,0,4
+1850,Australia,Papua New Guinea,65,3,1,0,0,0,1,0,4
+2196,Australia,Papua New Guinea,66,4,1,0,1,0,1,0,4
+2218,Austria,Papua New Guinea,75,4,1,0,0,1,0,1,3
+206,Belgium,Papua New Guinea,64,4,1,0,1,0,1,0,3
+1481,Belgium,Papua New Guinea,70,5,1,1,1,0,1,0,2
+85,Canada,Papua New Guinea,63,2,0,0,0,0,1,0,3
+977,Canada,Papua New Guinea,80,3,1,0,0,0,1,0,3
+1885,Canada,Papua New Guinea,70,3,1,0,0,0,1,0,4
+1901,Canada,Papua New Guinea,85,3,1,0,0,0,1,0,4
+1941,Canada,Papua New Guinea,77,2,0,0,0,0,1,0,3
+1982,Canada,Papua New Guinea,73,3,1,0,0,0,1,0,3
+10,France,Papua New Guinea,70,4,1,0,1,0,1,0,3
+626,France,Papua New Guinea,64,4,1,1,0,0,1,0,3
+1391,France,Papua New Guinea,64,4,1,1,0,0,1,0,4
+1671,France,Papua New Guinea,75,4,1,0,1,0,1,0,3
+1672,France,Papua New Guinea,75,4,1,0,1,0,1,0,3
+1535,Iceland,Papua New Guinea,70,3,1,0,0,0,1,0,3
+1695,Italy,Papua New Guinea,75,4,1,0,1,0,1,0,3
+2003,Japan,Papua New Guinea,62,5,1,1,1,0,1,0,3
+1140,Netherlands,Papua New Guinea,70,2,0,0,0,0,1,0,3
+415,New Zealand,Papua New Guinea,70,3,1,0,0,0,1,0,4
+416,New Zealand,Papua New Guinea,70,3,1,0,0,0,1,0,4
+812,New Zealand,Papua New Guinea,70,2,0,0,0,0,1,0,3
+1515,New Zealand,Papua New Guinea,74,2,0,0,0,0,1,0,4
+1516,New Zealand,Papua New Guinea,88,2,0,0,0,0,1,0,3
+1517,New Zealand,Papua New Guinea,70,2,0,0,0,0,1,0,3
+1518,New Zealand,Papua New Guinea,66,2,0,0,0,0,1,0,3
+381,Spain,Papua New Guinea,71,4,1,0,1,0,1,0,4
+1549,Switzerland,Papua New Guinea,68,3,1,0,0,0,1,0,3
+1431,United Arab Emirates,Papua New Guinea,72,2,0,0,0,0,1,0,3
+786,United Kingdom,Papua New Guinea,72,4,1,0,1,0,1,0,4
+75,United States of America,Papua New Guinea,70,4,1,1,0,0,1,0,4
+575,United States of America,Papua New Guinea,70,2,0,0,0,0,1,0,4
+622,United States of America,Papua New Guinea,64,4,1,1,0,0,1,0,3
+855,United States of America,Papua New Guinea,69,2,0,0,0,0,1,0,4
+856,United States of America,Papua New Guinea,69,2,0,0,0,0,1,0,4
+857,United States of America,Papua New Guinea,69,2,0,0,0,0,1,0,4
+858,United States of America,Papua New Guinea,69,2,0,0,0,0,1,0,3
+1288,United States of America,Papua New Guinea,72,3,1,0,0,0,1,0,4
+1344,United States of America,Papua New Guinea,71,2,0,0,0,0,1,0,3
+1803,United States of America,Papua New Guinea,68,5,1,1,1,0,1,0,4
+1817,United States of America,Papua New Guinea,73,2,0,0,0,0,1,0,4
+2033,United States of America,Papua New Guinea,70,4,1,1,0,0,1,0,3
+2186,United States of America,Papua New Guinea,70,3,1,0,0,0,1,0,3
+1852,Australia,Peru,67,3,1,0,0,0,1,0,3
+2204,Austria,Peru,70,4,1,0,0,1,0,1,4
+2212,Austria,Peru,70,4,1,0,0,1,0,1,4
+2216,Austria,Peru,70,4,1,0,0,1,0,1,3
+207,Belgium,Peru,64,4,1,0,1,0,1,0,3
+605,Belgium,Peru,72,4,1,0,1,0,1,0,3
+828,Belgium,Peru,75,4,1,0,1,0,1,0,4
+1205,Belgium,Peru,70,3,1,0,0,0,1,0,4
+1415,Belgium,Peru,70,3,1,0,0,0,1,0,3
+1624,Belgium,Peru,85,5,1,1,1,0,1,0,3
+82,Canada,Peru,68,2,0,0,0,0,1,0,4
+528,Canada,Peru,70,3,1,0,0,0,1,0,4
+719,Canada,Peru,70,3,1,0,0,0,1,0,3
+1581,Canada,Peru,72,2,0,0,0,0,1,0,3
+1583,Canada,Peru,70,2,0,0,0,0,1,0,4
+1611,Canada,Peru,70,4,1,0,1,0,1,0,3
+1702,Canada,Peru,70,3,1,0,0,0,1,0,3
+1703,Canada,Peru,70,3,1,0,0,0,1,0,4
+1704,Canada,Peru,70,3,1,0,0,0,1,0,4
+1842,Canada,Peru,73,2,0,0,0,0,1,0,4
+1889,Canada,Peru,64,3,1,0,0,0,1,0,4
+1913,Canada,Peru,70,3,1,0,0,0,1,0,3
+1914,Canada,Peru,70,3,1,0,0,0,1,0,4
+1981,Canada,Peru,68,3,1,0,0,0,1,0,3
+2077,Canada,Peru,70,2,0,0,0,0,1,0,3
+1511,Chile,Peru,70,2,0,0,0,0,1,0,4
+1512,Chile,Peru,70,2,0,0,0,0,1,0,4
+1970,Denmark,Peru,71,5,1,1,1,0,1,0,3
+1971,Denmark,Peru,61,5,1,1,1,0,1,0,2
+1559,Ecuador,Peru,70,4,1,0,1,0,1,0,4
+3,France,Peru,63,4,1,0,1,0,1,0,4
+6,France,Peru,63,3,1,0,0,0,1,0,4
+8,France,Peru,70,4,1,0,1,0,1,0,4
+11,France,Peru,70,4,1,0,1,0,1,0,3
+16,France,Peru,70,4,1,0,1,0,1,0,4
+22,France,Peru,70,4,1,0,1,0,1,0,4
+26,France,Peru,63,4,1,0,1,0,1,0,4
+47,France,Peru,75,5,1,1,1,0,1,0,2
+285,France,Peru,75,3,1,0,0,0,1,0,3
+290,France,Peru,75,3,1,0,0,0,1,0,4
+291,France,Peru,75,3,1,0,0,0,1,0,4
+300,France,Peru,75,3,1,0,0,0,1,0,4
+1173,France,Peru,72,2,0,0,0,0,1,0,4
+1191,France,Peru,75,4,1,0,1,0,1,0,3
+1665,France,Peru,75,3,1,0,0,0,1,0,3
+1717,France,Peru,75,3,1,0,0,0,1,0,3
+2119,France,Peru,63,5,1,1,1,0,1,0,4
+538,Germany,Peru,62,3,1,0,0,0,1,0,3
+539,Germany,Peru,72,3,1,0,0,0,1,0,3
+993,Germany,Peru,64,3,0,0,1,0,1,0,3
+1388,Germany,Peru,70,3,1,0,0,0,1,0,4
+1985,Hungary,Peru,70,3,1,0,0,0,1,0,4
+2152,Ireland,Peru,75,3,1,0,0,0,1,0,3
+2153,Ireland,Peru,89,3,1,0,0,0,1,0,3
+2154,Ireland,Peru,75,3,1,0,0,0,1,0,3
+2155,Ireland,Peru,75,3,1,0,0,0,1,0,2
+1032,Israel,Peru,70,2,0,0,0,0,1,0,4
+1039,Israel,Peru,70,4,1,0,1,0,1,0,3
+95,Italy,Peru,70,4,1,1,0,0,1,0,4
+663,Italy,Peru,70,2,0,0,0,0,1,0,3
+389,Japan,Peru,70,2,0,0,0,0,1,0,3
+737,Japan,Peru,78,3,1,0,0,0,1,0,4
+940,Japan,Peru,73,2,0,0,0,0,1,0,2
+1422,Japan,Peru,70,2,0,0,0,0,1,0,4
+1980,Japan,Peru,70,5,1,1,1,0,1,0,2
+2059,Japan,Peru,70,2,0,0,0,0,1,0,3
+1465,Lithuania,Peru,78,4,1,0,1,0,1,0,4
+483,Netherlands,Peru,80,3,1,0,0,0,1,0,4
+810,New Zealand,Peru,70,2,0,0,0,0,1,0,4
+1020,New Zealand,Peru,66,3,1,0,0,0,1,0,4
+2148,New Zealand,Peru,70,2,0,0,0,0,0,1,4
+80,Peru,Peru,73,3,1,0,0,0,1,0,4
+81,Peru,Peru,72,3,1,0,0,0,1,0,3
+181,Peru,Peru,70,3,1,0,0,0,1,0,4
+182,Peru,Peru,70,3,1,0,0,0,1,0,3
+391,Peru,Peru,70,2,0,0,0,0,1,0,3
+392,Peru,Peru,70,2,0,0,0,0,1,0,3
+514,Peru,Peru,70,2,0,0,0,0,1,0,3
+1312,Peru,Peru,70,4,1,0,1,0,1,0,3
+1313,Peru,Peru,70,3,1,0,0,0,1,0,3
+1314,Peru,Peru,70,3,1,0,0,0,1,0,3
+1490,Peru,Peru,70,3,1,0,0,0,1,0,3
+1552,Peru,Peru,65,4,1,0,1,0,1,0,3
+1553,Peru,Peru,72,4,1,0,1,0,1,0,3
+1599,Peru,Peru,70,4,1,1,0,0,1,0,3
+1600,Peru,Peru,55,4,1,1,0,0,1,0,2
+1823,Peru,Peru,75,3,1,0,0,0,1,0,4
+1824,Peru,Peru,70,3,1,0,0,0,1,0,3
+2075,Peru,Peru,70,3,1,0,0,0,1,0,4
+2076,Peru,Peru,73,3,1,0,0,0,1,0,3
+1297,Poland,Peru,70,3,1,0,0,0,1,0,4
+487,Scotland,Peru,68,3,1,0,0,0,1,0,3
+489,Scotland,Peru,70,2,0,0,0,0,1,0,4
+490,Scotland,Peru,69,3,1,0,0,0,1,0,4
+1083,Scotland,Peru,72,4,1,0,1,0,0,1,3
+1084,Scotland,Peru,72,4,1,0,1,0,0,1,3
+1513,Scotland,Peru,75,3,1,0,0,0,1,0,4
+1121,Spain,Peru,75,3,1,0,0,0,1,0,3
+1585,Spain,Peru,71,2,0,0,0,0,1,0,4
+2052,Sweden,Peru,70,3,1,0,0,0,1,0,3
+1546,Switzerland,Peru,75,3,1,0,0,0,1,0,3
+151,United Kingdom,Peru,75,3,1,0,0,0,1,0,3
+197,United Kingdom,Peru,70,4,1,1,0,0,1,0,2
+467,United Kingdom,Peru,65,2,0,0,0,0,1,0,3
+468,United Kingdom,Peru,65,2,0,0,0,0,1,0,2
+689,United Kingdom,Peru,80,2,0,0,0,0,0,1,4
+695,United Kingdom,Peru,70,3,1,0,0,0,1,0,4
+796,United Kingdom,Peru,72,3,1,0,0,0,0,1,3
+1870,United Kingdom,Peru,68,2,0,0,0,0,1,0,3
+2157,United Kingdom,Peru,70,3,1,0,0,0,1,0,3
+28,United States of America,Peru,70,2,0,0,0,0,1,0,4
+29,United States of America,Peru,70,2,0,0,0,0,1,0,4
+30,United States of America,Peru,70,2,0,0,0,0,1,0,4
+57,United States of America,Peru,60,4,1,0,1,0,1,0,3
+61,United States of America,Peru,60,3,1,0,0,0,1,0,3
+65,United States of America,Peru,60,3,1,0,0,0,1,0,2
+116,United States of America,Peru,68,2,0,0,0,0,1,0,4
+122,United States of America,Peru,70,2,0,0,0,0,1,0,4
+139,United States of America,Peru,70,3,1,0,0,0,1,0,4
+189,United States of America,Peru,70,2,0,0,0,0,1,0,4
+304,United States of America,Peru,70,3,1,0,0,0,1,0,4
+348,United States of America,Peru,75,2,0,0,0,0,1,0,2
+435,United States of America,Peru,70,3,1,0,0,0,1,0,3
+436,United States of America,Peru,70,3,1,0,0,0,1,0,2
+448,United States of America,Peru,70,3,1,0,0,0,1,0,3
+458,United States of America,Peru,72,3,1,0,0,0,1,0,3
+473,United States of America,Peru,90,2,0,0,0,0,0,1,2
+482,United States of America,Peru,74,3,1,0,0,0,0,1,3
+495,United States of America,Peru,70,2,0,0,0,0,1,0,3
+515,United States of America,Peru,75,3,1,0,0,0,1,0,4
+623,United States of America,Peru,64,4,1,1,0,0,1,0,3
+712,United States of America,Peru,70,3,1,0,0,0,1,0,4
+716,United States of America,Peru,70,3,1,0,0,0,1,0,4
+722,United States of America,Peru,72,3,1,0,0,0,1,0,3
+723,United States of America,Peru,80,2,0,0,0,0,1,0,4
+765,United States of America,Peru,73,3,1,0,0,0,1,0,3
+830,United States of America,Peru,70,2,0,0,0,0,1,0,4
+832,United States of America,Peru,66,2,0,0,0,0,0,1,4
+833,United States of America,Peru,70,2,0,0,0,0,1,0,2
+834,United States of America,Peru,81,2,0,0,0,0,0,1,2
+835,United States of America,Peru,66,2,0,0,0,0,1,0,4
+839,United States of America,Peru,70,2,0,0,0,0,1,0,4
+859,United States of America,Peru,70,3,1,0,0,0,1,0,4
+861,United States of America,Peru,70,3,1,0,0,0,1,0,4
+863,United States of America,Peru,70,3,1,0,0,0,1,0,4
+864,United States of America,Peru,70,3,1,0,0,0,1,0,4
+865,United States of America,Peru,70,3,1,0,0,0,1,0,4
+866,United States of America,Peru,70,3,1,0,0,0,1,0,3
+874,United States of America,Peru,70,2,0,0,0,0,1,0,4
+904,United States of America,Peru,70,3,1,0,0,0,1,0,2
+908,United States of America,Peru,76,3,1,0,0,0,1,0,3
+935,United States of America,Peru,70,3,1,0,0,0,1,0,3
+958,United States of America,Peru,65,5,1,1,1,0,1,0,3
+992,United States of America,Peru,65,3,1,0,0,0,1,0,3
+1011,United States of America,Peru,70,2,0,0,0,0,0,1,3
+1019,United States of America,Peru,70,2,0,0,0,0,0,1,2
+1088,United States of America,Peru,72,2,0,0,0,0,1,0,2
+1100,United States of America,Peru,75,4,1,0,1,0,1,0,3
+1148,United States of America,Peru,72,2,0,0,0,0,1,0,2
+1152,United States of America,Peru,70,4,1,0,1,0,1,0,3
+1165,United States of America,Peru,74,5,1,1,1,0,1,0,3
+1170,United States of America,Peru,75,2,0,0,0,0,1,0,3
+1208,United States of America,Peru,70,2,0,0,0,0,1,0,4
+1215,United States of America,Peru,70,3,1,0,0,0,1,0,4
+1223,United States of America,Peru,68,2,0,0,0,0,1,0,4
+1224,United States of America,Peru,65,2,0,0,0,0,1,0,4
+1279,United States of America,Peru,74,3,1,0,0,0,1,0,2
+1284,United States of America,Peru,72,3,1,0,0,0,1,0,3
+1289,United States of America,Peru,70,3,1,0,0,0,1,0,3
+1299,United States of America,Peru,62,3,1,0,0,0,1,0,4
+1302,United States of America,Peru,68,3,1,0,0,0,1,0,4
+1342,United States of America,Peru,75,2,0,0,0,0,1,0,3
+1355,United States of America,Peru,63,3,1,0,0,0,1,0,4
+1358,United States of America,Peru,82,2,0,0,0,0,1,0,3
+1445,United States of America,Peru,70,2,0,0,0,0,1,0,3
+1474,United States of America,Peru,72,2,0,0,0,0,1,0,2
+1483,United States of America,Peru,72,2,0,0,0,0,1,0,3
+1488,United States of America,Peru,75,3,1,0,0,0,1,0,3
+1496,United States of America,Peru,75,4,0,1,1,0,0,1,3
+1606,United States of America,Peru,67,3,1,0,0,0,1,0,4
+1641,United States of America,Peru,82,3,1,0,0,0,1,0,3
+1647,United States of America,Peru,70,2,0,0,0,0,1,0,3
+1678,United States of America,Peru,75,2,0,0,0,0,0,1,3
+1710,United States of America,Peru,70,3,1,0,0,0,1,0,3
+1714,United States of America,Peru,73,2,0,0,0,0,1,0,4
+1715,United States of America,Peru,80,2,0,0,0,0,1,0,3
+1716,United States of America,Peru,70,2,0,0,0,0,1,0,2
+1719,United States of America,Peru,72,3,1,0,0,0,1,0,4
+1733,United States of America,Peru,75,2,0,0,0,0,1,0,3
+1742,United States of America,Peru,70,3,1,0,0,0,1,0,2
+1753,United States of America,Peru,75,2,0,0,0,0,1,0,4
+1804,United States of America,Peru,78,4,1,0,1,0,1,0,4
+1876,United States of America,Peru,70,3,1,0,0,0,1,0,3
+1951,United States of America,Peru,70,3,1,0,0,0,1,0,3
+1999,United States of America,Peru,70,4,1,1,0,0,1,0,3
+2010,United States of America,Peru,75,3,1,0,0,0,1,0,4
+2011,United States of America,Peru,75,3,1,0,0,0,1,0,3
+2021,United States of America,Peru,70,5,1,1,1,0,1,0,2
+2022,United States of America,Peru,70,5,1,1,1,0,1,0,2
+2039,United States of America,Peru,70,4,1,1,0,0,1,0,2
+2048,United States of America,Peru,70,2,0,0,0,0,1,0,3
+2087,United States of America,Peru,60,3,1,0,0,0,1,0,3
+2135,United States of America,Peru,75,3,1,0,0,0,1,0,3
+2137,United States of America,Peru,77,2,0,0,0,0,1,0,3
+2143,United States of America,Peru,70,5,1,1,1,0,1,0,2
+2175,United States of America,Peru,70,2,0,0,0,0,1,0,3
+2185,United States of America,Peru,70,3,1,0,0,0,1,0,3
+1370,Denmark,Philippines,70,2,0,0,0,0,0,1,3
+1693,Italy,Philippines,66,4,1,0,1,0,1,0,4
+1138,Netherlands,Philippines,70,2,0,0,0,0,1,0,3
+171,Philippines,Philippines,70,3,1,0,0,0,1,0,4
+172,Philippines,Philippines,70,3,1,0,0,0,1,0,3
+173,Philippines,Philippines,70,3,1,0,0,0,1,0,3
+174,Philippines,Philippines,77,4,0,1,1,0,1,0,3
+1272,Philippines,Philippines,65,5,1,1,1,0,1,0,4
+803,Singapore,Philippines,70,2,0,0,0,0,1,0,3
+1589,Spain,Philippines,76,2,0,0,0,0,1,0,3
+339,Taiwan,Philippines,70,2,0,0,0,0,0,1,4
+690,United Kingdom,Philippines,71.5,3,1,0,0,0,0,1,3
+709,United Kingdom,Philippines,70,4,1,0,1,0,1,0,4
+788,United Kingdom,Philippines,73,4,1,0,1,0,1,0,3
+1871,United Kingdom,Philippines,70,3,1,0,0,0,1,0,2
+166,United States of America,Philippines,77,2,0,0,0,0,1,0,4
+1965,United States of America,Philippines,75,4,1,1,0,0,1,0,3
+1966,United States of America,Philippines,65,4,1,1,0,0,1,0,2
+1967,United States of America,Philippines,70,4,1,1,0,0,1,0,2
+1436,Brazil,Puerto Rico,70,3,1,0,0,0,1,0,3
+344,Puerto Rico,Puerto Rico,70,2,0,0,0,0,1,0,2
+1230,Puerto Rico,Puerto Rico,65,5,1,1,1,0,1,0,2
+446,United States of America,Puerto Rico,70,3,1,0,0,0,1,0,4
+780,United States of America,Puerto Rico,65,3,1,0,0,0,1,0,2
+1261,United States of America,Puerto Rico,70,4,1,1,0,0,1,0,3
+923,Germany,Saint Lucia,77,3,1,0,0,0,1,0,4
+529,Saint Lucia,Saint Lucia,70,4,1,1,0,0,1,0,2
+735,Saint Lucia,Saint Lucia,70,2,0,0,0,0,1,0,3
+736,Saint Lucia,Saint Lucia,60,2,0,0,0,0,1,0,3
+1041,United Kingdom,Saint Lucia,70,2,0,0,0,0,1,0,4
+1042,United Kingdom,Saint Lucia,70,2,0,0,0,0,1,0,3
+1046,United Kingdom,Saint Lucia,72,3,1,0,0,0,1,0,3
+1050,United Kingdom,Saint Lucia,65,4,1,0,1,0,1,0,3
+1052,United Kingdom,Saint Lucia,65,4,1,0,1,0,1,0,3
+1089,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,72,4,1,0,1,0,1,0,3
+1519,New Zealand,Samoa,70,2,0,0,0,0,1,0,4
+1520,New Zealand,Samoa,100,1,0,0,0,0,0,0,3
+2149,New Zealand,Samoa,77,2,0,0,0,0,1,0,3
+1477,Belgium,Sao Tome,75,5,1,1,1,0,1,0,3
+25,France,Sao Tome,63,4,1,0,1,0,1,0,4
+1190,France,Sao Tome,75,4,1,0,1,0,1,0,4
+1392,France,Sao Tome,70,4,1,1,0,0,1,0,3
+1397,France,Sao Tome,67,4,1,1,0,0,1,0,4
+1658,France,Sao Tome,75,4,1,0,1,0,1,0,4
+1787,France,Sao Tome,70,5,1,1,1,0,1,0,3
+1666,France,Sao Tome,75,4,1,0,1,0,1,0,4
+1766,Hungary,Sao Tome,77,3,1,0,0,0,1,0,3
+398,Italy,Sao Tome,78,2,0,0,0,0,1,0,2
+1827,Italy,Sao Tome,65,4,1,0,0,1,1,0,3
+652,Sao Tome,Sao Tome,65,4,1,0,1,0,1,0,3
+653,Sao Tome,Sao Tome,75,4,1,0,1,0,1,0,3
+654,Sao Tome,Sao Tome,70,4,1,0,1,0,1,0,3
+655,Sao Tome,Sao Tome,75,4,1,0,1,0,1,0,2
+1047,United Kingdom,Sao Tome,72,4,1,0,1,0,1,0,3
+587,United States of America,Sierra Leone,70,2,0,0,0,0,1,0,3
+747,United States of America,Sierra Leone,70,3,1,0,0,0,1,0,2
+1444,United States of America,Sierra Leone,72,3,1,0,0,0,1,0,3
+170,Australia,Solomon Islands,70,4,1,0,1,0,1,0,3
+1385,Australia,Solomon Islands,67,3,1,0,0,0,1,0,4
+1386,Australia,Solomon Islands,72,3,1,0,0,0,1,0,3
+2197,Australia,Solomon Islands,78,4,1,0,1,0,1,0,4
+1872,New Zealand,Solomon Islands,70,2,0,0,0,0,1,0,3
+1873,New Zealand,Solomon Islands,75,2,0,0,0,0,1,0,3
+787,United Kingdom,Solomon Islands,69,4,1,0,1,0,1,0,4
+1689,United Kingdom,Solomon Islands,72,3,1,0,0,0,1,0,3
+645,United States of America,Solomon Islands,72,2,0,0,0,0,1,0,4
+1264,United States of America,Solomon Islands,73,2,0,0,0,0,1,0,4
+279,France,Sri Lanka,75,3,1,0,0,0,1,0,3
+1974,Sweden,Sri Lanka,70,2,0,0,0,0,1,0,3
+2009,Suriname,Suriname,70,2,0,0,0,0,1,0,3
+340,Taiwan,Taiwan,70,2,0,0,0,0,0,1,3
+916,Taiwan,Taiwan,70,3,1,0,0,0,1,0,2
+552,Australia,Tanzania,75,3,1,0,0,0,1,0,3
+1846,Australia,Tanzania,67,3,1,0,0,0,1,0,4
+2189,Austria,Tanzania,70,3,1,0,0,0,1,0,4
+2191,Austria,Tanzania,85,3,1,0,0,0,1,0,3
+630,Canada,Tanzania,72,2,0,0,0,0,1,0,2
+1575,Canada,Tanzania,72,2,0,0,0,0,1,0,4
+1841,Canada,Tanzania,73,2,0,0,0,0,1,0,4
+1938,Canada,Tanzania,80,2,0,0,0,0,1,0,4
+2089,Canada,Tanzania,75,2,0,0,0,0,1,0,3
+1371,Denmark,Tanzania,70,2,0,0,0,0,0,1,3
+351,France,Tanzania,75,5,1,1,1,0,1,0,2
+1667,France,Tanzania,75,4,1,0,1,0,1,0,4
+1536,Iceland,Tanzania,70,3,1,0,0,0,1,0,4
+680,Italy,Tanzania,70,2,0,0,0,0,1,0,4
+683,Italy,Tanzania,70,2,0,0,0,0,1,0,4
+1268,Italy,Tanzania,75,4,1,1,0,0,1,0,2
+1979,Japan,Tanzania,75,3,1,0,0,0,1,0,3
+54,Netherlands,Tanzania,70,3,1,0,0,0,1,0,4
+811,New Zealand,Tanzania,70,2,0,0,0,0,1,0,3
+794,Norway,Tanzania,70,3,1,0,0,0,1,0,4
+799,Singapore,Tanzania,67,2,0,0,0,0,1,0,4
+1119,Spain,Tanzania,75,3,1,0,0,0,1,0,3
+1975,Sweden,Tanzania,74,2,0,0,0,0,1,0,3
+915,Taiwan,Tanzania,70,2,0,0,0,0,1,0,3
+1432,United Arab Emirates,Tanzania,72,3,1,0,0,0,1,0,4
+1045,United Kingdom,Tanzania,80,4,1,0,1,0,1,0,3
+1048,United Kingdom,Tanzania,75,4,1,0,1,0,1,0,3
+2,United States of America,Tanzania,76,3,1,0,0,0,1,0,3
+123,United States of America,Tanzania,70,2,0,0,0,0,1,0,4
+167,United States of America,Tanzania,72,2,0,0,0,0,1,0,4
+169,United States of America,Tanzania,68,3,1,0,0,0,1,0,4
+183,United States of America,Tanzania,72,3,1,0,0,0,1,0,3
+208,United States of America,Tanzania,70,3,1,0,0,0,1,0,4
+267,United States of America,Tanzania,75,2,0,0,0,0,1,0,4
+407,United States of America,Tanzania,73,3,1,0,0,0,1,0,3
+519,United States of America,Tanzania,72,3,1,0,0,0,1,0,4
+591,United States of America,Tanzania,70,2,0,0,0,0,1,0,3
+609,United States of America,Tanzania,70,3,1,0,0,0,1,0,3
+692,United States of America,Tanzania,70,2,0,0,0,0,1,0,3
+746,United States of America,Tanzania,80,3,1,0,0,0,1,0,3
+872,United States of America,Tanzania,70,2,0,0,0,0,1,0,4
+991,United States of America,Tanzania,72,3,1,0,0,0,1,0,3
+1014,United States of America,Tanzania,70,2,0,0,0,0,0,1,3
+1016,United States of America,Tanzania,70,2,0,0,0,0,0,1,3
+1210,United States of America,Tanzania,70,2,0,0,0,0,1,0,4
+1304,United States of America,Tanzania,72,3,1,0,0,0,1,0,3
+1349,United States of America,Tanzania,74,2,0,0,0,0,1,0,3
+1412,United States of America,Tanzania,75,3,1,0,0,0,1,0,3
+1442,United States of America,Tanzania,72,2,0,0,0,0,1,0,4
+1459,United States of America,Tanzania,68,2,0,0,0,0,1,0,3
+1491,United States of America,Tanzania,72,3,1,0,0,0,1,0,3
+1521,United States of America,Tanzania,70,3,1,0,0,0,1,0,3
+1595,United States of America,Tanzania,70,2,0,0,0,0,1,0,3
+1628,United States of America,Tanzania,70,3,1,0,0,0,1,0,4
+1677,United States of America,Tanzania,75,2,0,0,0,0,0,1,3
+1718,United States of America,Tanzania,72,3,1,0,0,0,1,0,4
+1740,United States of America,Tanzania,72,3,1,0,0,0,1,0,3
+1807,United States of America,Tanzania,70,2,0,0,0,0,1,0,3
+1880,United States of America,Tanzania,70,3,1,0,0,0,1,0,3
+2064,United States of America,Tanzania,71,2,0,0,0,0,1,0,3
+2086,United States of America,Tanzania,75,2,0,0,0,0,1,0,3
+2093,United States of America,Tanzania,72,2,0,0,0,0,1,0,3
+2150,United States of America,Tanzania,68,3,1,0,0,0,1,0,3
+1106,Thailand,Thailand,70,3,1,0,0,0,1,0,4
+1107,Thailand,Thailand,70,3,1,0,0,0,1,0,4
+1108,Thailand,Thailand,70,3,1,0,0,0,1,0,4
+1109,Thailand,Thailand,70,3,1,0,0,0,1,0,3
+1273,Thailand,Thailand,70,3,1,0,0,0,0,1,3
+1181,France,Tobago,60,4,1,0,1,0,1,0,3
+21,France,Togo,70,4,1,0,1,0,1,0,4
+23,France,Togo,70,4,1,0,1,0,1,0,3
+24,France,Togo,70,4,1,0,1,0,1,0,3
+328,Australia,Trinidad,68,3,1,0,0,0,1,0,3
+1847,Australia,Trinidad,70,3,1,0,0,0,1,0,4
+2190,Austria,Trinidad,78,2,0,0,0,0,1,0,4
+2193,Austria,Trinidad,85,3,1,0,0,0,1,0,3
+1480,Belgium,Trinidad,67,5,1,1,1,0,1,0,4
+1622,Belgium,Trinidad,75,5,1,1,1,0,1,0,3
+1570,Canada,Trinidad,70,2,0,0,0,0,1,0,4
+1577,Canada,Trinidad,70,2,0,0,0,0,0,1,3
+1908,Canada,Trinidad,70,3,1,0,0,0,1,0,4
+49,France,Trinidad,65,6,1,1,1,1,1,0,3
+1669,France,Trinidad,75,4,1,0,1,0,1,0,3
+2103,France,Trinidad,64,5,1,1,1,0,1,0,2
+544,Germany,Trinidad,72,3,1,0,0,0,1,0,3
+1037,Israel,Trinidad,70,4,1,0,1,0,1,0,4
+91,Italy,Trinidad,70,4,1,1,0,0,1,0,4
+397,Italy,Trinidad,70,2,0,0,0,0,1,0,2
+2006,Japan,Trinidad,77,4,1,0,1,0,1,0,3
+162,United Kingdom,Trinidad,72,3,1,0,0,0,1,0,3
+567,United Kingdom,Trinidad,70,3,1,0,0,0,1,0,3
+1056,United Kingdom,Trinidad,75,4,1,0,1,0,1,0,3
+126,United States of America,Trinidad,70,2,0,0,0,0,1,0,4
+141,United States of America,Trinidad,70,2,0,0,0,0,1,0,3
+192,United States of America,Trinidad,80,2,0,0,0,0,1,0,4
+334,United States of America,Trinidad,72,3,1,0,0,0,1,0,3
+745,United States of America,Trinidad,72,3,1,0,0,0,1,0,4
+758,United States of America,Trinidad,55,4,1,1,0,0,1,0,2
+907,United States of America,Trinidad,70,3,1,0,0,0,1,0,4
+963,United States of America,Trinidad,65,5,1,1,1,0,1,0,3
+1102,United States of America,Trinidad,80,4,1,0,1,0,1,0,3
+1209,United States of America,Trinidad,70,2,0,0,0,0,1,0,4
+1305,United States of America,Trinidad,70,3,1,0,0,0,1,0,3
+1410,United States of America,Trinidad,70,3,1,0,0,0,1,0,4
+1522,United States of America,Trinidad,70,3,1,0,0,0,1,0,3
+1730,United States of America,Trinidad,75,2,0,0,0,0,1,0,4
+1739,United States of America,Trinidad,80,2,0,0,0,0,1,0,4
+1749,United States of America,Trinidad,70,2,0,0,0,0,1,0,3
+2131,United States of America,Trinidad,75,3,1,0,0,0,1,0,4
+2173,United States of America,Trinidad,70,2,0,0,0,0,1,0,4
+451,Canada,Uganda,70,3,1,0,0,0,1,0,3
+618,South Africa,Uganda,70,3,1,0,0,0,1,0,2
+184,United States of America,Uganda,82,3,1,0,0,0,1,0,3
+479,United States of America,Uganda,70,2,0,0,0,0,1,0,3
+1009,United States of America,Uganda,57,3,1,0,0,0,1,0,3
+1155,United States of America,Uganda,72.5,5,1,1,0,1,1,0,2
+1249,United States of America,Uganda,75,3,1,0,0,0,1,0,2
+1810,United States of America,Uganda,70,2,0,0,0,0,1,0,4
+1879,United States of America,Uganda,70,3,1,0,0,0,1,0,3
+2041,United States of America,Uganda,73,2,0,0,0,0,1,0,4
+974,Canada,United States of America,66,3,1,0,0,0,1,0,3
+1897,Canada,United States of America,70,3,1,0,0,0,1,0,4
+917,United States of America,United States of America,85,3,0,1,0,0,1,0,2
+961,United States of America,United States of America,55,5,1,1,1,0,1,0,3
+1000,United States of America,United States of America,67,3,1,0,0,0,1,0,4
+1003,United States of America,United States of America,72,3,1,0,0,0,1,0,4
+1231,United States of America,United States of America,70,4,1,1,0,0,1,0,4
+1232,United States of America,United States of America,71,4,1,1,0,0,1,0,3
+1233,United States of America,United States of America,72,4,1,1,0,0,1,0,3
+1234,United States of America,United States of America,70,2,0,0,0,0,1,0,4
+1235,United States of America,United States of America,75,4,1,1,0,0,1,0,4
+1236,United States of America,United States of America,65,4,1,1,0,0,1,0,3
+1257,United States of America,United States of America,70,4,1,1,0,0,1,0,4
+1258,United States of America,United States of America,70,4,1,1,0,0,1,0,3
+1259,United States of America,United States of America,70,4,1,1,0,0,1,0,3
+1262,United States of America,United States of America,70,4,1,1,0,0,1,0,3
+1274,United States of America,United States of America,55,5,1,1,1,0,1,0,3
+1275,United States of America,United States of America,55,5,1,1,1,0,1,0,4
+1283,United States of America,United States of America,72,3,1,0,0,0,1,0,3
+1285,United States of America,United States of America,72,3,1,0,0,0,1,0,3
+1286,United States of America,United States of America,72,3,1,0,0,0,1,0,4
+1290,United States of America,United States of America,70,3,1,0,0,0,1,0,4
+1360,United States of America,United States of America,70,3,1,0,0,0,1,0,3
+1550,United States of America,United States of America,60,5,1,1,1,0,1,0,3
+1551,United States of America,United States of America,60,5,1,1,1,0,1,0,3
+1821,United States of America,United States of America,73,4,1,1,0,0,1,0,2
+1822,United States of America,United States of America,73,4,1,1,0,0,1,0,2
+1934,United States of America,United States of America,70,2,0,0,0,0,1,0,4
+555,Australia,Vanuatu,64,3,1,0,0,0,1,0,3
+556,Australia,Vanuatu,83,3,1,0,0,0,1,0,3
+1354,Australia,Vanuatu,72,3,1,0,0,0,1,0,4
+1945,Australia,Vanuatu,72,3,1,0,0,0,1,0,3
+1915,Canada,Vanuatu,70,3,1,0,0,0,1,0,4
+1654,France,Vanuatu,75,4,1,0,1,0,1,0,3
+814,New Zealand,Vanuatu,70,2,0,0,0,0,1,0,3
+785,United Kingdom,Vanuatu,72,4,1,0,1,0,1,0,4
+36,Vanuatu,Vanuatu,70,2,0,0,0,0,1,0,3
+37,Vanuatu,Vanuatu,70,2,0,0,0,0,1,0,3
+38,Vanuatu,Vanuatu,70,2,0,0,0,0,1,0,3
+39,Vanuatu,Vanuatu,70,2,0,0,0,0,1,0,2
+1779,Argentina,Venezuela,70,4,1,0,1,0,1,0,4
+1848,Australia,Venezuela,70,3,1,0,0,0,1,0,4
+1855,Australia,Venezuela,70,3,1,0,0,0,1,0,4
+222,Belgium,Venezuela,74,3,1,0,0,0,1,0,4
+223,Belgium,Venezuela,74,3,1,0,0,0,1,0,4
+1476,Belgium,Venezuela,71,5,1,1,1,0,1,0,3
+1613,Belgium,Venezuela,72,5,1,1,1,0,1,0,4
+1623,Belgium,Venezuela,75,5,1,1,1,0,1,0,3
+86,Canada,Venezuela,70,2,0,0,0,0,1,0,3
+509,Canada,Venezuela,70,4,1,1,0,0,1,0,3
+511,Canada,Venezuela,80,4,1,1,0,0,1,0,2
+1060,Canada,Venezuela,70,3,1,0,0,0,1,0,4
+1061,Canada,Venezuela,70,3,1,0,0,0,1,0,3
+1883,Canada,Venezuela,70,3,1,0,0,0,1,0,4
+1893,Canada,Venezuela,70,3,1,0,0,0,1,0,4
+1898,Canada,Venezuela,70,3,1,0,0,0,1,0,4
+1904,Canada,Venezuela,70,3,1,0,0,0,1,0,4
+1909,Canada,Venezuela,70,3,1,0,0,0,1,0,4
+1912,Canada,Venezuela,70,3,1,0,0,0,1,0,3
+1920,Canada,Venezuela,75,3,1,0,0,0,1,0,4
+1921,Canada,Venezuela,70,3,1,0,0,0,1,0,4
+1932,Canada,Venezuela,70,3,1,0,0,0,1,0,4
+1937,Canada,Venezuela,75,2,0,0,0,0,1,0,4
+1105,Czech Republic,Venezuela,75,3,1,0,0,0,1,0,3
+5,France,Venezuela,70,4,1,0,1,0,1,0,4
+17,France,Venezuela,70,4,1,0,1,0,1,0,4
+19,France,Venezuela,70,4,1,0,1,0,1,0,4
+20,France,Venezuela,70,4,1,0,1,0,1,0,3
+27,France,Venezuela,70,4,1,0,1,0,1,0,4
+46,France,Venezuela,75,5,1,1,1,0,1,0,2
+109,France,Venezuela,75,3,1,0,0,0,1,0,3
+274,France,Venezuela,75,3,1,0,0,0,1,0,4
+275,France,Venezuela,75,3,1,0,0,0,1,0,4
+277,France,Venezuela,75,3,1,0,0,0,1,0,4
+281,France,Venezuela,75,3,1,0,0,0,1,0,4
+350,France,Venezuela,72,5,1,1,1,0,1,0,2
+453,France,Venezuela,68,3,1,0,0,0,1,0,4
+625,France,Venezuela,66,4,1,1,0,0,1,0,4
+1176,France,Venezuela,69,4,1,0,1,0,1,0,4
+1396,France,Venezuela,66,4,1,1,0,0,1,0,4
+1662,France,Venezuela,75,4,1,0,1,0,1,0,2
+1663,France,Venezuela,75,4,1,0,1,0,1,0,4
+1664,France,Venezuela,75,4,1,0,1,0,1,0,3
+1674,France,Venezuela,75,4,1,0,1,0,1,0,3
+2102,France,Venezuela,64,5,1,1,1,0,1,0,3
+2105,France,Venezuela,65,5,1,1,1,0,1,0,4
+2106,France,Venezuela,64,5,1,1,1,0,1,0,3
+2114,France,Venezuela,64,5,1,1,1,0,1,0,4
+2116,France,Venezuela,69,5,1,1,1,0,1,0,4
+535,Germany,Venezuela,72,3,1,0,0,0,1,0,3
+536,Germany,Venezuela,70,3,1,0,0,0,1,0,4
+537,Germany,Venezuela,70,3,1,0,0,0,1,0,4
+542,Germany,Venezuela,72,3,1,0,0,0,1,0,3
+543,Germany,Venezuela,70,3,1,0,0,0,1,0,3
+724,Germany,Venezuela,68,2,0,0,0,0,1,0,3
+924,Germany,Venezuela,75,3,1,0,0,0,1,0,4
+926,Germany,Venezuela,75,3,1,0,0,0,1,0,3
+599,Guatemala,Venezuela,75,4,1,1,0,0,1,0,3
+1764,Hungary,Venezuela,73,3,1,0,0,0,1,0,4
+1765,Hungary,Venezuela,70,3,1,0,0,0,1,0,4
+1767,Hungary,Venezuela,71,3,1,0,0,0,1,0,2
+1768,Hungary,Venezuela,84,3,1,0,0,0,1,0,2
+1770,Hungary,Venezuela,76,3,1,0,0,0,1,0,2
+1771,Hungary,Venezuela,73,3,1,0,0,0,1,0,4
+1984,Hungary,Venezuela,70,3,1,0,0,0,1,0,3
+1992,Hungary,Venezuela,70,3,1,0,0,0,1,0,4
+1038,Israel,Venezuela,70,4,1,0,1,0,1,0,4
+89,Italy,Venezuela,70,4,1,1,0,0,1,0,4
+98,Italy,Venezuela,70,4,1,1,0,0,1,0,3
+99,Italy,Venezuela,70,4,1,1,0,0,1,0,3
+399,Italy,Venezuela,80,2,0,0,0,0,1,0,3
+662,Italy,Venezuela,70,2,0,0,0,0,1,0,4
+664,Italy,Venezuela,70,2,0,0,0,0,1,0,3
+665,Italy,Venezuela,70,2,0,0,0,0,1,0,4
+667,Italy,Venezuela,70,2,0,0,0,0,1,0,4
+671,Italy,Venezuela,75,2,0,0,0,0,1,0,3
+672,Italy,Venezuela,60,2,0,0,0,0,1,0,3
+675,Italy,Venezuela,70,2,0,0,0,0,1,0,3
+677,Italy,Venezuela,70,2,0,0,0,0,1,0,3
+678,Italy,Venezuela,70,2,0,0,0,0,1,0,4
+679,Italy,Venezuela,70,2,0,0,0,0,1,0,4
+682,Italy,Venezuela,70,2,0,0,0,0,1,0,4
+948,Italy,Venezuela,76,4,1,0,1,0,1,0,3
+1690,Italy,Venezuela,73,4,1,0,1,0,1,0,3
+2095,Italy,Venezuela,65,4,1,1,0,0,1,0,3
+738,Japan,Venezuela,79,3,1,0,0,0,1,0,3
+1456,Japan,Venezuela,70,2,0,0,0,0,1,0,4
+1976,Japan,Venezuela,75,5,1,1,1,0,1,0,3
+1467,Lithuania,Venezuela,70,4,1,0,1,0,1,0,3
+1468,Lithuania,Venezuela,75,4,1,0,1,0,1,0,3
+994,Netherlands,Venezuela,71,4,1,0,1,0,1,0,3
+1023,New Zealand,Venezuela,72,3,1,0,0,0,1,0,3
+1025,New Zealand,Venezuela,68,3,1,0,0,0,1,0,3
+1294,Poland,Venezuela,70,2,0,0,0,0,1,0,4
+769,Portugal,Venezuela,76,2,0,0,0,0,1,0,2
+491,Scotland,Venezuela,80,2,0,0,0,0,1,0,4
+384,Spain,Venezuela,71,4,1,0,1,0,1,0,4
+385,Spain,Venezuela,77,4,1,0,1,0,1,0,4
+500,Spain,Venezuela,71,4,1,0,1,0,1,0,4
+1276,Sweden,Venezuela,70,3,1,0,0,0,1,0,3
+226,Switzerland,Venezuela,72,3,1,0,0,0,1,0,4
+227,Switzerland,Venezuela,70,3,1,0,0,0,1,0,3
+228,Switzerland,Venezuela,74,3,1,0,0,0,1,0,3
+230,Switzerland,Venezuela,72,3,1,0,0,0,1,0,4
+232,Switzerland,Venezuela,88,3,1,0,0,0,1,0,3
+773,Switzerland,Venezuela,65,5,1,1,1,0,1,0,3
+1068,Switzerland,Venezuela,74,3,1,0,0,0,1,0,4
+1069,Switzerland,Venezuela,70,3,1,0,0,0,1,0,4
+1070,Switzerland,Venezuela,72,3,1,0,0,0,1,0,4
+1071,Switzerland,Venezuela,72,3,1,0,0,0,1,0,4
+1072,Switzerland,Venezuela,72,3,1,0,0,0,1,0,4
+1073,Switzerland,Venezuela,72,3,1,0,0,0,1,0,4
+1074,Switzerland,Venezuela,72,3,1,0,0,0,1,0,4
+1075,Switzerland,Venezuela,72,3,1,0,0,0,1,0,4
+1076,Switzerland,Venezuela,72,3,1,0,0,0,1,0,3
+1077,Switzerland,Venezuela,72,3,1,0,0,0,1,0,4
+913,Taiwan,Venezuela,70,3,1,0,0,0,1,0,4
+153,United Kingdom,Venezuela,75,3,1,0,0,0,1,0,2
+658,United Kingdom,Venezuela,72,3,1,0,0,0,1,0,3
+659,United Kingdom,Venezuela,85,3,1,0,0,0,1,0,3
+686,United Kingdom,Venezuela,70,3,1,0,0,0,1,0,2
+700,United Kingdom,Venezuela,71,3,1,0,0,0,1,0,4
+703,United Kingdom,Venezuela,72,3,1,0,0,0,1,0,4
+1049,United Kingdom,Venezuela,70,4,1,0,1,0,1,0,3
+1682,United Kingdom,Venezuela,75,3,1,0,0,0,1,0,3
+2156,United Kingdom,Venezuela,72,3,1,0,0,0,1,0,3
+2159,United Kingdom,Venezuela,72,3,1,0,0,0,1,0,4
+60,United States of America,Venezuela,60,4,1,0,1,0,1,0,2
+67,United States of America,Venezuela,70,4,1,1,0,0,1,0,4
+69,United States of America,Venezuela,70,4,1,1,0,0,1,0,3
+71,United States of America,Venezuela,70,4,1,1,0,0,1,0,3
+74,United States of America,Venezuela,70,4,1,1,0,0,1,0,3
+251,United States of America,Venezuela,78,2,0,0,0,0,1,0,3
+260,United States of America,Venezuela,70,3,1,0,0,0,1,0,3
+307,United States of America,Venezuela,85,5,1,1,1,0,1,0,4
+310,United States of America,Venezuela,70,3,1,0,0,0,1,0,4
+314,United States of America,Venezuela,70,3,1,0,0,0,1,0,4
+347,United States of America,Venezuela,75,2,0,0,0,0,1,0,2
+405,United States of America,Venezuela,70,3,1,0,0,0,1,0,3
+408,United States of America,Venezuela,75,3,1,0,0,0,1,0,2
+431,United States of America,Venezuela,70,3,1,0,0,0,1,0,3
+434,United States of America,Venezuela,72,3,1,0,0,0,1,0,3
+442,United States of America,Venezuela,72,3,1,0,0,0,1,0,4
+444,United States of America,Venezuela,70,2,0,0,0,0,1,0,3
+449,United States of America,Venezuela,70,3,1,0,0,0,1,0,3
+472,United States of America,Venezuela,68,2,0,0,0,0,1,0,4
+478,United States of America,Venezuela,80,2,0,0,0,0,1,0,3
+522,United States of America,Venezuela,61,5,1,1,1,0,1,0,3
+523,United States of America,Venezuela,77,3,1,0,0,0,1,0,3
+574,United States of America,Venezuela,70,2,0,0,0,0,1,0,4
+576,United States of America,Venezuela,70,2,0,0,0,0,1,0,3
+577,United States of America,Venezuela,70,2,0,0,0,0,1,0,3
+603,United States of America,Venezuela,72,2,0,0,0,0,1,0,3
+606,United States of America,Venezuela,70,3,1,0,0,0,1,0,3
+613,United States of America,Venezuela,70,4,1,0,1,0,1,0,3
+638,United States of America,Venezuela,75,2,0,0,0,0,1,0,3
+713,United States of America,Venezuela,70,3,1,0,0,0,1,0,4
+715,United States of America,Venezuela,70,3,1,0,0,0,1,0,3
+751,United States of America,Venezuela,72,4,1,1,0,0,1,0,3
+752,United States of America,Venezuela,81,4,1,1,0,0,1,0,4
+755,United States of America,Venezuela,70,4,1,1,0,0,1,0,3
+759,United States of America,Venezuela,70,4,1,1,0,0,1,0,2
+841,United States of America,Venezuela,65,3,1,0,0,0,1,0,4
+845,United States of America,Venezuela,70,3,1,0,0,0,1,0,4
+850,United States of America,Venezuela,76,3,1,0,0,0,1,0,3
+870,United States of America,Venezuela,72,3,1,0,0,0,1,0,4
+871,United States of America,Venezuela,72,3,1,0,0,0,1,0,3
+929,United States of America,Venezuela,70,2,0,0,0,0,1,0,3
+955,United States of America,Venezuela,65,5,1,1,1,0,1,0,2
+957,United States of America,Venezuela,65,5,1,1,1,0,1,0,4
+1008,United States of America,Venezuela,74,3,1,0,0,0,1,0,4
+1013,United States of America,Venezuela,70,2,0,0,0,0,0,1,3
+1093,United States of America,Venezuela,72,3,1,0,0,0,1,0,3
+1095,United States of America,Venezuela,72,3,1,0,0,0,1,0,4
+1147,United States of America,Venezuela,72,3,1,0,0,0,1,0,3
+1161,United States of America,Venezuela,71,5,1,1,1,0,1,0,3
+1164,United States of America,Venezuela,68,5,1,1,1,0,1,0,4
+1197,United States of America,Venezuela,75,5,1,1,1,0,1,0,3
+1198,United States of America,Venezuela,75,5,1,1,1,0,1,0,3
+1278,United States of America,Venezuela,74,3,1,0,0,0,1,0,3
+1334,United States of America,Venezuela,75,2,0,0,0,0,1,0,3
+1335,United States of America,Venezuela,81,2,0,0,0,0,1,0,3
+1340,United States of America,Venezuela,76,2,0,0,0,0,1,0,3
+1341,United States of America,Venezuela,70,2,0,0,0,0,1,0,3
+1343,United States of America,Venezuela,81,2,0,0,0,0,1,0,3
+1346,United States of America,Venezuela,73,2,0,0,0,0,1,0,3
+1368,United States of America,Venezuela,70,2,0,0,0,0,1,0,3
+1408,United States of America,Venezuela,75,3,1,0,0,0,1,0,4
+1485,United States of America,Venezuela,72,2,0,0,0,0,1,0,2
+1505,United States of America,Venezuela,70,2,0,0,0,0,1,0,3
+1604,United States of America,Venezuela,70,3,1,0,0,0,1,0,4
+1648,United States of America,Venezuela,70,2,0,0,0,0,1,0,4
+1752,United States of America,Venezuela,70,2,0,0,0,0,1,0,4
+1760,United States of America,Venezuela,80,2,0,0,0,0,1,0,4
+1761,United States of America,Venezuela,70,2,0,0,0,0,1,0,4
+1793,United States of America,Venezuela,75,5,1,1,1,0,1,0,4
+1820,United States of America,Venezuela,77,2,0,0,0,0,1,0,3
+1878,United States of America,Venezuela,70,2,0,0,0,0,1,0,3
+2012,United States of America,Venezuela,75,4,1,1,0,0,1,0,3
+2035,United States of America,Venezuela,80,4,1,1,0,0,1,0,3
+2057,United States of America,Venezuela,91,2,0,0,0,0,1,0,2
+2067,United States of America,Venezuela,72,3,1,0,0,0,1,0,3
+2139,United States of America,Venezuela,77,2,0,0,0,0,1,0,3
+2144,United States of America,Venezuela,70,5,1,1,1,0,1,0,2
+2165,United States of America,Venezuela,74,3,1,0,0,0,1,0,3
+2166,United States of America,Venezuela,70,3,1,0,0,0,1,0,4
+2168,United States of America,Venezuela,70,2,0,0,0,0,1,0,4
+237,Venezuela,Venezuela,70,4,1,0,1,0,1,0,4
+238,Venezuela,Venezuela,70,4,1,0,1,0,1,0,3
+239,Venezuela,Venezuela,70,4,1,0,1,0,1,0,3
+357,Venezuela,Venezuela,70,2,0,0,0,0,1,0,4
+358,Venezuela,Venezuela,75,2,0,0,0,0,1,0,4
+359,Venezuela,Venezuela,74,2,0,0,0,0,1,0,3
+360,Venezuela,Venezuela,75,2,0,0,0,0,1,0,2
+361,Venezuela,Venezuela,77,2,0,0,0,0,1,0,4
+362,Venezuela,Venezuela,74,2,0,0,0,0,1,0,3
+363,Venezuela,Venezuela,75,2,0,0,0,0,1,0,3
+364,Venezuela,Venezuela,75,2,0,0,0,0,1,0,3
+365,Venezuela,Venezuela,70,2,0,0,0,0,1,0,3
+366,Venezuela,Venezuela,75,2,0,0,0,0,1,0,2
+727,Venezuela,Venezuela,70,5,1,1,1,0,1,0,3
+728,Venezuela,Venezuela,61,5,1,1,1,0,1,0,3
+729,Venezuela,Venezuela,74,5,1,1,1,0,1,0,2
+730,Venezuela,Venezuela,58,5,1,1,1,0,1,0,2
+731,Venezuela,Venezuela,70,5,1,1,1,0,1,0,3
+732,Venezuela,Venezuela,60.5,5,1,1,1,0,1,0,3
+733,Venezuela,Venezuela,70,5,1,1,1,0,1,0,4
+816,Venezuela,Venezuela,70,3,1,0,0,0,1,0,4
+817,Venezuela,Venezuela,60,3,1,0,0,0,1,0,4
+818,Venezuela,Venezuela,70,3,1,0,0,0,1,0,4
+819,Venezuela,Venezuela,70,3,1,0,0,0,1,0,4
+820,Venezuela,Venezuela,72,2,0,0,0,0,1,0,4
+821,Venezuela,Venezuela,70,3,1,0,0,0,1,0,3
+822,Venezuela,Venezuela,70,3,1,0,0,0,1,0,3
+823,Venezuela,Venezuela,85,2,0,0,0,0,1,0,3
+824,Venezuela,Venezuela,60,4,1,0,1,0,1,0,2
+1972,Venezuela,Venezuela,60,3,1,0,0,0,1,0,3
+1973,Venezuela,Venezuela,70,3,1,0,0,0,1,0,3
+1859,Australia,Vietnam,70,3,1,0,0,0,1,0,3
+604,Belgium,Vietnam,70,4,1,0,1,0,1,0,3
+829,Belgium,Vietnam,80,4,1,0,1,0,1,0,3
+1067,Canada,Vietnam,70,3,1,0,0,0,1,0,4
+1574,Canada,Vietnam,72,2,0,0,0,0,1,0,4
+1922,Canada,Vietnam,70,3,1,0,0,0,1,0,4
+2078,Canada,Vietnam,70,2,0,0,0,0,1,0,3
+1433,Czech Republic,Vietnam,70,3,1,0,0,0,1,0,4
+50,France,Vietnam,75,5,1,1,0,1,1,0,3
+748,France,Vietnam,70,3,1,0,0,0,1,0,3
+749,France,Vietnam,74,3,1,0,0,0,1,0,3
+750,France,Vietnam,80,3,1,0,0,0,1,0,3
+1189,France,Vietnam,75,4,1,0,1,0,1,0,4
+1196,France,Vietnam,75,4,1,0,1,0,1,0,3
+2134,France,Vietnam,70,4,1,0,1,0,1,0,4
+1998,Hungary,Vietnam,70,3,1,0,0,0,1,0,3
+1692,Italy,Vietnam,75,4,1,0,1,0,1,0,4
+388,Japan,Vietnam,70,2,0,0,0,0,1,0,4
+1424,Japan,Vietnam,70,2,0,0,0,0,1,0,3
+1568,Japan,Vietnam,72,5,1,1,1,0,1,0,3
+2004,Japan,Vietnam,60,5,1,1,1,0,1,0,3
+464,Korea,Vietnam,70,2,0,0,0,0,1,0,3
+1679,Korea,Vietnam,70,2,0,0,0,0,1,0,3
+55,Netherlands,Vietnam,70,3,1,0,0,0,1,0,4
+1136,Netherlands,Vietnam,70,2,0,0,0,0,1,0,3
+215,Singapore,Vietnam,72,4,1,0,1,0,1,0,3
+1429,United Arab Emirates,Vietnam,65,2,0,0,0,0,1,0,4
+158,United Kingdom,Vietnam,72,3,1,0,0,0,1,0,3
+988,United Kingdom,Vietnam,70,3,1,0,0,0,1,0,3
+1054,United Kingdom,Vietnam,80,4,1,0,1,0,1,0,4
+127,United States of America,Vietnam,73,3,1,0,0,0,1,0,4
+133,United States of America,Vietnam,73,2,0,0,0,0,1,0,3
+138,United States of America,Vietnam,73,3,1,0,0,0,1,0,4
+521,United States of America,Vietnam,72,3,1,0,0,0,1,0,3
+532,United States of America,Vietnam,78,2,0,0,0,0,1,0,3
+588,United States of America,Vietnam,70,2,0,0,0,0,1,0,4
+602,United States of America,Vietnam,72,2,0,0,0,0,1,0,3
+644,United States of America,Vietnam,78,2,0,0,0,0,1,0,4
+744,United States of America,Vietnam,72,2,0,0,0,0,1,0,3
+1082,United States of America,Vietnam,72,3,1,0,0,0,1,0,3
+1096,United States of America,Vietnam,65,4,1,0,1,0,1,0,4
+1307,United States of America,Vietnam,75,3,1,0,0,0,1,0,3
+1308,United States of America,Vietnam,73,2,0,0,0,0,1,0,3
+1361,United States of America,Vietnam,75,3,1,0,0,0,1,0,3
+1457,United States of America,Vietnam,80,2,0,0,0,0,1,0,3
+1493,United States of America,Vietnam,72,3,1,0,0,0,1,0,3
+1507,United States of America,Vietnam,70,3,1,0,0,0,1,0,3
+1630,United States of America,Vietnam,70,3,1,0,0,0,1,0,3
+1800,United States of America,Vietnam,72,5,1,1,1,0,1,0,4
+211,Vietnam,Vietnam,75,3,1,0,0,0,1,0,3
+937,Vietnam,Vietnam,72,5,1,1,1,0,1,0,3
+1317,Vietnam,Vietnam,76,3,1,0,0,0,1,0,4
+1318,Vietnam,Vietnam,72,3,1,0,0,0,1,0,4
+1319,Vietnam,Vietnam,70,3,1,0,0,0,1,0,4
+1320,Vietnam,Vietnam,78,3,1,0,0,0,1,0,4
+1321,Vietnam,Vietnam,74,3,1,0,0,0,1,0,4
+1322,Vietnam,Vietnam,80,3,1,0,0,0,1,0,3
+1323,Vietnam,Vietnam,75,3,1,0,0,0,1,0,4
+1324,Vietnam,Vietnam,70,2,0,0,0,0,1,0,4
+1325,Vietnam,Vietnam,68,2,0,0,0,0,1,0,4
+1326,Vietnam,Vietnam,85,2,0,0,0,0,1,0,3
+1327,Vietnam,Vietnam,75,3,1,0,0,0,1,0,4
+2007,Vietnam,Vietnam,75,3,1,0,0,0,1,0,3
+2008,Vietnam,Vietnam,70,3,1,0,0,0,1,0,3
